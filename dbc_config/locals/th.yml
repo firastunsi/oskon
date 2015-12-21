@@ -1,0 +1,315 @@
+---
+DBC_PURPOSE_SALE: การขาย
+DBC_PURPOSE_RENT: ให้เช่า
+DBC_PURPOSE_BOTH: ขายและให้เช่า
+DBC_TYPE_APARTMENT: ที่พัก
+DBC_TYPE_HOUSE: บ้าน
+DBC_TYPE_LAND: ที่ดิน
+DBC_TYPE_COMSPACE: พื้นที่ เชิงพาณิชย์
+DBC_CONDITION_NEW: ใหม่
+DBC_CONDITION_SOLD: ขาย
+DBC_CONDITION_AVAILABLE: ที่มีจำหน่าย
+DBC_CONDITION_AUCTION: การประมูล
+sign_in: เข้าสู่ระบบ
+sign_up: ลงทะเบียน
+agent_panel: แผง บริษัท ตัวแทน
+admin_panel: แผง ผู้ดูแลระบบ
+find_your_place: ค้นหา สถานที่ ของคุณ
+search_text_banner: ค้นหา ที่อยู่ บริเวณใกล้เคียง เมือง หรือรัฐ
+DBC_ADVANCED_SEARCH: การค้นหาขั้นสูง
+recent_estates: เอสเตท เมื่อเร็ว ๆ นี้
+DBC_AGENTS: ตัวแทน
+no_estates_found: เอสเตท ไม่พบ
+DBC_HOME: บ้าน
+DBC_ABOUT: เกี่ยวกับ
+DBC_CONTACT: ติดต่อ
+plain_search: ล้วน ค้นหา
+ignore_this_section: ละเว้น ส่วนนี้
+location_search: ค้นหาสถานที่
+country: ประเทศ
+state_province: รัฐ / จังหวัด
+city: เมือง
+bedrooms: ห้องนอน
+bathrooms: ห้องน้ำ
+year_built: ปีที่สร้าง
+register: สมัครสมาชิก
+area: พื้นที่
+details: รายละเอียด
+view_all: ดู ทั้งหมด
+featured_estates: เอสเตท ที่แนะนำ
+order_by: โดย การสั่งซื้อ
+none: ไม่
+terms_and_conditions: ข้อตกลงและ Confition
+reg_success_message: การลงทะเบียน บัญชีของคุณ ประสบความสำเร็จ 
+limit: จำกัด
+usage: การใช้
+recover: กู้
+oops: โอ๊ะ ไม่พบหน้าเว็บ
+share_this: แบ่งปัน นี้
+baths: ห้องอาบน้ำ
+general_amenities: สิ่งอำนวยความสะดวก ทั่วไป
+location_map: ที่ตั้งและแผนที่
+image_gallery: แกลเลอรี่ภาพ
+summary: ย่อ
+overview: ภาพรวม
+address: ที่อยู่
+agent: ตัวแทน
+message: ข่าวสาร
+DBC_PER_MONTH: ต่อเดือน
+DBC_PER_QUARTER: ต่อไตรมาส
+DBC_PER_YEAR: ปี ต่อ
+DBC_TYPE_CONDO: คอนโด
+DBC_TYPE_VILLA: วิลล่า
+type_filers: ประเภท ตัวกรอง
+purpose_filters: กรอง วัตถุประสงค์
+email_subject: หัวเรื่องอีเมล์
+all: ทั้งหมด
+DBC_DELETED: ที่ถูกลบ
+agent_estates: เอสเตท บริษัท ตัวแทน
+all_agents: ตัวแทน ทั้งหมด
+contact_us: ติดต่อเรา
+DBC_ACTIVE: กระตือรือร้น
+radius: รัศมี
+featured_video: วิดีโอ ที่แนะนำ
+estates: เอสเตท
+embed_video_url: Embeded URL วิดีโอ
+DBC_PENDING: ที่รอดำเนินการ
+top_estates: เอสเตท ยอดนิยม
+estate: ที่ดิน
+email_tracker: อีเมล์ ติดตาม
+bulk_email: อีเมล์ขยะ
+advanced_filters: ตัวกรองขั้นสูง
+purpose: ความมุ่งหมาย
+result: ผล
+agent_not_found: บริษัท ตัวแทน ไม่พบ
+payment_notification: คุณจะ ชำระเงิน 
+confirmation: การยืนยัน
+distance: ระยะทาง
+tags: แท็ก
+zip_code: รหัสไปรษณีย์
+embed_preview: ฝัง ตัวอย่าง
+login: เข้าสู่ระบบ
+post_not_found: โพสต์ ไม่ได้ พบ
+view_more: ดู เพิ่มเติม
+choose_a_package: เลือก แพคเกจ
+no_package_found: แพคเกจ ไม่พบ
+days: วัน
+posts: กระทู้
+change: เปลี่ยนแปลง
+subscribe: สมัครสมาชิก
+home_size: ขนาด หน้าแรก
+lot_size: ขนาดพื้นที่
+DBC_PAGES: หน้า
+DBC_BLOG: บล็อก
+DBC_NEWS: ข่าว
+DBC_ARTICLES: บทความ
+DBC_REPORTED: รายงาน
+all_estates: นิคมอุตสาหกรรม ทั้งหมด
+image: ภาพ
+condition: สภาพ
+sales_price: ราคา ขาย
+price_per_unit: ราคาต่อหน่วย
+rent_price: ราคาเช่า
+energy_efficiency: ประสิทธิภาพการใช้พลังงาน
+custom_fields: ฟิลด์ที่กำหนดเอง
+view_on_map: ดูบนแผนที่
+estate_add_status_video: แรกสร้าง อสังหาริมทรัพย์ 
+estate_add_status_gallery: แรกสร้าง สถานที่ให้บริการ 
+create: สร้าง
+basic_info: ข้อมูลพื้นฐาน
+estate_brochure: โบรชัวร์ อสังหาริมทรัพย์
+send: ส่ง
+all_email_to_agent: อีเมล์ ทั้งหมด ไปยัง ตัวแทน
+email_detail: อีเมล์ รายละเอียด
+change_package: เปลี่ยนแพ็คเก็จ
+bank_transfer: โอนเงินผ่านธนาคาร
+contact_subject: อีเมล์ที่ใช้ติดต่อ
+payment_finish_title: ที่สมบูรณ์แบบ การชำระเงิน
+payment_renew_title: ที่สมบูรณ์แบบ การชำระเงิน
+payment_finish_text: ชำระเงินของคุณ เสร็จสมบูรณ์ 
+payment_renew_text: ชำระเงินของคุณ เสร็จสมบูรณ์ 
+payment_cancel_title: ยกเลิก การชำระเงิน
+payment_cancel_text: ชำระเงินของคุณ จะถูกยกเลิก
+feature_payment_finish: ชำระเงินของคุณ เสร็จสมบูรณ์ 
+feature_payment_cancel: ชำระเงินของคุณ จะถูกยกเลิก
+DBC_CONDITION_RENTED: มีผู้เช่า
+private_owner: เจ้าของ ส่วนตัว
+dealer: เจ้ามือ
+selected_package: แพคเกจ ที่เลือกไว้
+signup_with_social_account: ลงทะเบียน กับบัญชี สังคม
+password: รหัสผ่าน
+confirm_password: ยืนยันรหัสผ่าน
+property_price: ราคา รวม
+down_payment: การชำระเงิน ลง
+term_in_years: ไม่มี ของ ปีที่ผ่านมา
+annual_interest: ดอกเบี้ย ต่อปี ( %)
+installments_per_year: ผ่อนชำระ ต่อปี
+monthly_payment: วิธีการชำระเงิน รายเดือน
+mortgage_calculation: เครื่องคิดเลข สินเชื่อที่อยู่อาศัย
+all_posts: โพสต์ทั้งหมด
+no_posts: กระทู้ ไม่มี
+title: ชื่อเรื่อง
+description: ลักษณะ
+status: สถานะ
+actions: การปฏิบัติ
+action: การกระทำ
+type: ชนิด
+type_something: พิมพ์ บางสิ่งบางอย่าง
+content: เนื้อหา
+featured_image: ภาพ ที่แนะนำ
+all_categories: ทุกประเภท
+edit_category: แก้ไข ประเภท
+new_category: หมวดสินค้า New
+parent: ผู้ปกครอง
+edit: แก้ไข
+delete: ลบ
+name: ชื่อ
+save: บันทึก
+no_parent: พ่อแม่ ไม่มี
+edit_email_template: แก้ไข แม่แบบ อีเมล
+select_template_file: เลือก แฟ้มแม่แบบ
+subject: เรื่อง
+body: ร่างกาย
+available_variables: ตัวแปร ที่มีจำหน่าย
+select_language: เลือกภาษา
+select_language_file: ไฟล์ เลือกภาษา
+edit_as_new: แก้ไข ใหม่
+language: ภาษา
+add_another: เพิ่ม อีก
+export_to_file: ส่งออกไปยัง ไฟล์
+import_from_file: นำเข้า จากไฟล์
+auto_translator: แปล อัตโนมัติ
+from_lang: จาก lang
+target_lang_full_name: ชื่อเต็ม เป้าหมาย lang
+target_lang_short_name: ชื่อ สั้น เป้าหมาย lang
+create_new_package: สร้าง แพคเกจ ใหม่
+price: ราคา
+maximum_post_by_user: โพสต์ โดยผู้ใช้ สูงสุด
+expirtion_time: เวลา Expirtion (วัน)
+create_package: สร้าง แพคเกจ
+edit_package: แพคเกจการ แก้ไข
+update_package: แพคเกจการ ปรับปรุง
+add_packages: เพิ่ม แพคเกจ
+all_packages: แพคเกจ ทั้งหมด
+no_packages: แพคเกจ ไม่มี
+options: ตัวเลือก
+all_pages: หน้าทั้งหมด
+no_pages: ไม่มีหน้าใด
+manage_menu: จัดการ เมนู
+menu_title: เมนู ชื่อเรื่อง
+menu_alias: นามแฝง เมนู
+show_in_menu: แสดง ในเมนู
+page_layout: รูปแบบ หน้า
+content_from: เนื้อหา จาก
+url: url
+seo_options: ตัวเลือก SEO
+meta_description: คำอธิบาย meta
+key_words: คำสำคัญ
+crawl_after: หลังจาก คลาน (วัน)
+all_plugins: ปลั๊กอิน ทั้งหมด
+no_plugins: ปลั๊กอิน ไม่มี
+name_and_version: ชื่อ และ รุ่น
+change_password: เปลี่ยน รหัสผ่าน
+current_password: รหัสผ่านปัจจุบัน
+new_password: รหัสผ่านใหม่
+retype_password: รหัสผ่านอีกครั้ง
+password_reset_info_msg: กรุณา แรก ตั้งรหัสผ่าน ใหม่ ของคุณ
+edit_profile: รายละเอียด แก้ไข
+profile_picture: รูปภาพโปรไฟล์
+username: ชื่อผู้ใช้
+email: อีเมล์
+first_name: ชื่อ
+last_name: นามสกุล
+gender: เพศ
+phone: โทรศัพท์
+company_name: ชื่อ บริษัท
+about_me: เกี่ยวกับฉัน
+facebook_account: บัญชีผู้ใช้ Facebook
+twitter_account: บัญชี ทวิตเตอร์
+linkedin_account: บัญชี Linkedin
+gp_account: บัญชี Google+
+account_msg: 'กรุณาใส่ ลิงค์โดยไม่มี http : //'
+web_email_settings: เว็บ การตั้งค่าอีเมล์
+contact_email: อีเมล์ที่ใช้ติดต่อ
+webadmin_name: webadmin ชื่อ
+webadmin_email: webadmin อีเมล์
+update: ปรับปรุง
+upload: อัพโหลด
+site_settings: การตั้งค่าไซต์
+site_title: ชื่อเว็บไซต์
+footer_text: ข้อความ ส่วนท้าย
+site_logo: เว็บไซต์ Logo
+site_language: ภาษาอัตโนมัติ
+site_text_direction: เว็บไซต์ ทิศทางของข้อความ
+per_page: การแบ่งหน้า หน้า ต่อ
+default_page_layout: เริ่มต้น เค้าโครงหน้ากระดาษ
+tracking_code: รหัสติดตาม
+smtp_email_settings: SMTP การตั้งค่า อีเมล์
+smtp_email: SMTP อีเมล์
+smtp_host: SMTP โฮสต์
+smtp_port: SMTP พอร์ต
+smtp_timeout: SMTP หมดเวลา
+smtp_user: ผู้ใช้ SMTP
+smtp_password: รหัสผ่าน SMTP
+generate_site_map: สร้าง แผนผังเว็บไซต์
+sitemap_info_msg: กรุณาเลือก ที่คุณต้องการ จะรวมอยู่ใน แผนผังเว็บไซต์ XML 
+pages: หน้า
+blog_posts: โพสต์บล็อก
+view_xml: ดู XML
+create_xml: สร้าง XML
+manage_backups: จัดการ การสำรองข้อมูล
+create_sql_backup: สร้าง การสำรองข้อมูล SQL
+create_image_backup: สร้าง การสำรองข้อมูล ภาพ
+restore: ฟื้นฟู
+download: ดาวน์โหลด
+dashboard: หน้าปัด
+overview_stats_more: ภาพรวม สถิติ และ อื่น ๆ
+visit_site: เยี่ยมชม เว็บไซต์
+logout: ออกจากระบบ
+themes: ธีมส์
+real_estate: อสังหาริมทรัพย์
+locations: สถานที่
+amenities: สิ่งอำนวยความสะดวก
+distance_fields: ทุ่ง ระยะทาง
+paypal_settings: paypal การตั้งค่า
+payment_history: ประวัติการชำระเงิน
+profile: ประวัติย่อ
+packages: แพคเกจ
+agents: ตัวแทน
+widgets: วิดเจ็ต
+all_widgets: วิดเจ็ต ทั้งหมด
+widget_positions: ตำแหน่ง Widget
+blog_news_article: บล็อก / ข่าว / บทความ
+new_post: โพสต์ ใหม่
+pages_and_menu: หน้า และ เมนู
+new_page: หน้า ใหม่
+menu: เมนู
+system: ระบบ
+manage_languages: การจัดการ ภาษา
+auto_translate: แปล อัตโนมัติ
+edit_email_text: แก้ไข ข้อความ อีเมล์
+admin_settings: การตั้งค่า ผู้ดูแลระบบ
+sitemap: แผนผังเว็บไซต์
+activate: กระตุ้น
+active_theme: ธีม ที่ใช้งาน
+available_themes: ธีม ที่มีจำหน่าย
+all_users: ผู้ใช้ทั้งหมด
+create_user: สร้างผู้ใช้
+export_user_email: ส่งออก อีเมล์ ผู้ใช้ (.csv )
+profile_info: ข้อมูลส่วนตัว
+ban_forever: บ้าน ตลอดกาล
+edit_page: แก้ไขเพจ
+create_widget: สร้าง Widget
+widget_name: ชื่อ Widget
+activate_deactivate: เปิดใช้งาน / ปิดใช้งาน
+show: แสดง
+available_widgets: วิดเจ็ต ที่มีจำหน่าย
+active_widgets: วิดเจ็ต ที่ใช้งาน
+delete_warning: คุณแน่ใจว่าต้องการ จะลบ
+confirm_yes: ใช่ ลบ
+confirm_no: ยกเลิก
+date: วันที่
+from: จาก
+reactivate: ฟื้นฟู
+agent_profile: รายละเอียด บริษัท ตัวแทน
+samplepage: หน้าตัวอย่าง

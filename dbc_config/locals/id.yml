@@ -1,0 +1,315 @@
+---
+DBC_PURPOSE_SALE: penjualan
+DBC_PURPOSE_RENT: Sewa Tempat
+DBC_PURPOSE_BOTH: Sale & Rent
+DBC_TYPE_APARTMENT: apartemen
+DBC_TYPE_HOUSE: rumah
+DBC_TYPE_LAND: tanah
+DBC_TYPE_COMSPACE: Ruang Usaha
+DBC_CONDITION_NEW: baru
+DBC_CONDITION_SOLD: terjual
+DBC_CONDITION_AVAILABLE: tersedia
+DBC_CONDITION_AUCTION: lelang
+sign_in: Masuk
+sign_up: Daftar
+agent_panel: Agen Panel
+admin_panel: Panel admin
+find_your_place: Cari Tempat Anda
+search_text_banner: Mencari Alamat , Sekitar , Kota atau Negara
+DBC_ADVANCED_SEARCH: Pencarian Lanjutan
+recent_estates: Estates Terbaru
+DBC_AGENTS: Agen
+no_estates_found: Tidak ada Estates Ditemukan
+DBC_HOME: rumah
+DBC_ABOUT: tentang
+DBC_CONTACT: kontak
+plain_search: Plain Cari
+ignore_this_section: Abaikan bagian ini
+location_search: lokasi Cari
+country: negara
+state_province: Negara Bagian / Provinsi
+city: kota
+bedrooms: Kamar tidur
+bathrooms: Kamar mandi
+year_built: tahun Dibangun
+register: Daftar
+area: Luas Area
+details: rincian
+view_all: Lihat Semua
+featured_estates: Estates Pilihan
+order_by: Order By
+none: Tidak Satupun
+terms_and_conditions: Syarat dan Confition
+reg_success_message: Pendaftaran Account Anda sukses . 
+limit: batas
+usage: pemakaian
+recover: memulihkan
+oops: Ups , halaman tidak ditemukan
+share_this: Bagi ini
+baths: Baths
+general_amenities: Fasilitas umum
+location_map: Peta Lokasi
+image_gallery: Galeri
+summary: ringkasan
+overview: Ikhtisar
+address: alamat
+agent: agen
+message: pesan
+DBC_PER_MONTH: per Bulan
+DBC_PER_QUARTER: per Triwulan
+DBC_PER_YEAR: per Tahun
+DBC_TYPE_CONDO: condo
+DBC_TYPE_VILLA: vila
+type_filers: jenis Filter
+purpose_filters: tujuan Filter
+email_subject: email Subject
+all: semua
+DBC_DELETED: dihapus
+agent_estates: Agen Estates
+all_agents: semua Agen
+contact_us: Hubungi Kami
+DBC_ACTIVE: aktif
+radius: radius
+featured_video: Pilihan Video
+estates: perkebunan
+embed_video_url: Embeded Video Url
+DBC_PENDING: tertunda
+top_estates: Top Estates
+estate: perkebunan
+email_tracker: email Tracker
+bulk_email: Email Massal
+advanced_filters: Lanjutan Filter
+purpose: tujuan
+result: hasil
+agent_not_found: Agen Tidak Ditemukan
+payment_notification: Anda akan melakukan pembayaran . 
+confirmation: konfirmasi
+distance: jarak
+tags: Tags
+zip_code: Kode Pos
+embed_preview: Embed Preview
+login: masuk
+post_not_found: Posting tidak Ditemukan
+view_more: Lihat Lebih
+choose_a_package: Pilih Paket yang
+no_package_found: Tidak ada Paket yang ditemukan
+days: hari Hari
+posts: tulisan
+change: perubahan
+subscribe: berlangganan
+home_size: rumah Ukuran
+lot_size: Lot Size
+DBC_PAGES: halaman
+DBC_BLOG: blog
+DBC_NEWS: kabar Berita
+DBC_ARTICLES: artikel
+DBC_REPORTED: dilaporkan
+all_estates: semua Estates
+image: gambar
+condition: kondisi
+sales_price: Harga Jual
+price_per_unit: Harga per Unit
+rent_price: Sewa Harga
+energy_efficiency: Efisiensi energi
+custom_fields: Bidang kustom
+view_on_map: Lihat di Peta
+estate_add_status_video: Pertama membuat real . 
+estate_add_status_gallery: Pertama membuat properti . 
+create: membuat
+basic_info: Informasi Dasar
+estate_brochure: real Brosur
+send: mengirim
+all_email_to_agent: Semua Email ke Agen
+email_detail: email Detil
+change_package: perubahan Paket
+bank_transfer: transfer Bank
+contact_subject: Email kontak
+payment_finish_title: Lengkap Pembayaran
+payment_renew_title: Lengkap Pembayaran
+payment_finish_text: Pembayaran Anda selesai . 
+payment_renew_text: Pembayaran Anda selesai . 
+payment_cancel_title: Pembayaran Batal
+payment_cancel_text: Pembayaran dibatalkan
+feature_payment_finish: Pembayaran Anda selesai . 
+feature_payment_cancel: Pembayaran dibatalkan .
+DBC_CONDITION_RENTED: sewaan
+private_owner: Pemilik pribadi
+dealer: pedagang
+selected_package: Paket yang dipilih
+signup_with_social_account: Mendaftar dengan akun sosial
+password: Kata Sandi
+confirm_password: Konfirmasi Sandi
+property_price: total Harga
+down_payment: Uang Muka
+term_in_years: Tidak ada dari Tahun
+annual_interest: Bunga Per Tahun ( % )
+installments_per_year: Angsuran Per Tahun
+monthly_payment: Pembayaran bulanan
+mortgage_calculation: Mortgage Calculator
+all_posts: semua posting
+no_posts: Tidak ada Tulisan
+title: judul
+description: deskripsi
+status: status
+actions: tindakan
+action: tindakan
+type: jenis
+type_something: ketik sesuatu
+content: kadar
+featured_image: Pilihan Gambar
+all_categories: semua kategori
+edit_category: mengedit kategori
+new_category: kategori baru
+parent: induk
+edit: sunting
+delete: Hapus
+name: nama
+save: Simpan
+no_parent: Tidak ada orang tua
+edit_email_template: Edit pola email
+select_template_file: Pilih file template
+subject: pokok Bahasan
+body: tubuh
+available_variables: variabel yang tersedia
+select_language: Pilih Bahasa
+select_language_file: Pilih file bahasa
+edit_as_new: Mengedit seperti baru
+language: bahasa
+add_another: Tambah lain
+export_to_file: Ekspor ke file
+import_from_file: Impor dari berkas
+auto_translator: penerjemah otomatis
+from_lang: dari lang
+target_lang_full_name: Target lang nama lengkap
+target_lang_short_name: Target lang nama pendek
+create_new_package: Buat Paket Baru
+price: harga
+maximum_post_by_user: Posting maksimum dengan pengguna
+expirtion_time: Waktu Expirtion ( hari )
+create_package: Buat Paket
+edit_package: mengedit paket
+update_package: Update paket
+add_packages: Tambahkan paket
+all_packages: semua paket
+no_packages: Tidak ada paket
+options: pilihan
+all_pages: semua halaman
+no_pages: Tidak ada halaman
+manage_menu: mengelola menu
+menu_title: menu Judul
+menu_alias: alias menu
+show_in_menu: Tampilkan dalam menu
+page_layout: Layout halaman
+content_from: konten dari
+url: url
+seo_options: Pilihan SEO
+meta_description: meta description
+key_words: kata kunci
+crawl_after: Crawl setelah ( hari )
+all_plugins: semua plugin
+no_plugins: Tidak ada plugin
+name_and_version: Nama dan versi
+change_password: ganti kata sandi
+current_password: katasandi saat ini
+new_password: sandi baru
+retype_password: Ketik ulang kata sandi
+password_reset_info_msg: Silakan Pertama Set Password Baru Anda
+edit_profile: mengedit profil
+profile_picture: Foto Profil
+username: nama Pengguna
+email: email
+first_name: Nama Depan
+last_name: Nama Belakang
+gender: jenis Kelamin
+phone: telepon
+company_name: Nama Perusahaan
+about_me: Tentang Saya
+facebook_account: akun Facebook
+twitter_account: akun Twitter
+linkedin_account: akun Linkedin
+gp_account: akun Google+
+account_msg: 'Cukup masukkan link , tanpa http: //'
+web_email_settings: Pengaturan web Email
+contact_email: Email kontak
+webadmin_name: Nama webadmin
+webadmin_email: webadmin Email
+update: memperbarui
+upload: Upload
+site_settings: Pengaturan situs
+site_title: Judul situs
+footer_text: Footer Text
+site_logo: situs Logo
+site_language: Bahasa Situs
+site_text_direction: Situs Text Direction
+per_page: Pagination Per Halaman
+default_page_layout: Standar Page Layout
+tracking_code: Kode Pelacakan
+smtp_email_settings: SMTP Pengaturan Email
+smtp_email: SMTP Email
+smtp_host: SMTP host
+smtp_port: SMTP Pelabuhan
+smtp_timeout: SMTP Timeout
+smtp_user: SMTP pengguna
+smtp_password: SMTP Sandi
+generate_site_map: Menghasilkan Peta Situs
+sitemap_info_msg: Silakan pilih mana yang Anda inginkan untuk dimasukkan pada xml sitemap . 
+pages: halaman
+blog_posts: Posting Blog
+view_xml: Lihat XML
+create_xml: Buat XML
+manage_backups: mengelola Backup
+create_sql_backup: Buat SQL Backup
+create_image_backup: Buat Gambar Backup
+restore: mengembalikan
+download: Download
+dashboard: dasbor
+overview_stats_more: Ikhtisar , Statistik dan Lebih
+visit_site: Kunjungi Situs
+logout: Keluar
+themes: tema
+real_estate: Real Estat
+locations: lokasi
+amenities: fasilitas
+distance_fields: Lapangan Jarak
+paypal_settings: Pengaturan Paypal
+payment_history: Riwayat Pembayaran
+profile: profil
+packages: paket
+agents: Agen
+widgets: widget
+all_widgets: semua Widget
+widget_positions: Posisi widget
+blog_news_article: Blog / Berita / Artikel
+new_post: New Post
+pages_and_menu: Pages & menu
+new_page: Lembaran Baru
+menu: menu
+system: sistem
+manage_languages: mengelola Bahasa
+auto_translate: auto Translate
+edit_email_text: Edit Email Teks
+admin_settings: Pengaturan admin
+sitemap: Peta situs
+activate: mengaktifkan
+active_theme: Tema aktif
+available_themes: tersedia Tema
+all_users: semua Pengguna
+create_user: Buat pengguna
+export_user_email: Email ekspor Pengguna ( .csv )
+profile_info: Info Profil
+ban_forever: Ban Selamanya
+edit_page: Sunting Halaman
+create_widget: Buat Widget
+widget_name: Nama widget
+activate_deactivate: 'Aktifkan / De - Aktifkan'
+show: menunjukkan
+available_widgets: Widget yang tersedia
+active_widgets: Widget aktif
+delete_warning: Apakah Anda yakin ingin melakukan hapus .
+confirm_yes: Ya Hapus
+confirm_no: Tidak Jadi
+date: Buah Kurma
+from: dari
+reactivate: mengaktifkan kembali
+agent_profile: profil Agen
+samplepage:halaman sampel

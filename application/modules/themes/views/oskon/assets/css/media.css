@@ -1,0 +1,11 @@
+@media (max-width:810px) {
+    .navbar-collapse{
+        background-color: #007192;
+    }
+    ul.navbar-nav{
+        width: 100%;
+    }
+    ul.navbar-nav li{
+        text-align: center;
+    }
+}

@@ -1,0 +1,42 @@
+.signup-alert{
+    margin: 2px 0 0 0;
+}
+@media (max-width:400px) {
+	.visit-site{
+		display: none;
+	}
+
+	.language-sel{
+		margin: 10px 10px 0 0 ;
+	}
+}
+.navbar-inverse {
+    border-radius: 0;
+    height: 53px;
+    padding-top: 4px;
+    margin-bottom: 0;
+    border-bottom-width: 4px;
+    border-bottom-style: solid;
+    border-bottom-color: #f16a3d;
+    background-image: url(../img/header_bg.png) !important;
+    background-repeat: repeat !important;
+}	
+	
+	.navbar .navbar-brand {
+    font-size: 0px;
+    text-shadow: none;
+    padding-top: 3px;
+    height: 40px;
+    min-width: 200px;
+    padding-bottom: 0px;
+}
+.btn.btn-info {
+	color: #fff;
+	background-color: #0095A9 !important;
+	border-color: #0095A9 !important;
+}
+.btn.btn-info:active,.btn.btn-info.active,.btn-group.open .btn.btn-info.dropdown-toggle,.btn.btn-info:hover {
+	color: #fff;
+	background-color: #0095A9;
+	border-color: #0095A9;
+}

@@ -1,0 +1,17 @@
+Array
+(
+    [file_name] => xx1.jpg
+    [file_type] => image/jpeg
+    [file_path] => /home/oskonadmin/public_html/testlink/uploads/2015/Oct/
+    [full_path] => /home/oskonadmin/public_html/testlink/uploads/2015/Oct/xx1.jpg
+    [raw_name] => xx1
+    [orig_name] => xx.jpg
+    [client_name] => xx.jpg
+    [file_ext] => .jpg
+    [file_size] => 426.62
+    [is_image] => 1
+    [image_width] => 1200
+    [image_height] => 799
+    [image_type] => jpeg
+    [image_size_str] => width="1200" height="799"
+)

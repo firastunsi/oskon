@@ -1,0 +1,315 @@
+---
+DBC_PURPOSE_SALE: venta
+DBC_PURPOSE_RENT: renta
+DBC_PURPOSE_BOTH: Venta y Renta
+DBC_TYPE_APARTMENT: apartamento
+DBC_TYPE_HOUSE: casa
+DBC_TYPE_LAND: tierra
+DBC_TYPE_COMSPACE: Espacio Comercial
+DBC_CONDITION_NEW: nuevo
+DBC_CONDITION_SOLD: vendido
+DBC_CONDITION_AVAILABLE: disponible
+DBC_CONDITION_AUCTION: subasta
+sign_in: Registrarse
+sign_up: Contratar
+agent_panel: Panel Agente
+admin_panel: Panel de administración
+find_your_place: Encuentra tu lugar
+search_text_banner: Buscar Dirección , Barrio, Ciudad o Estado
+DBC_ADVANCED_SEARCH: Búsqueda Avanzada
+recent_estates: Estates recientes
+DBC_AGENTS: Agentes
+no_estates_found: No se han encontrado Estates
+DBC_HOME: casa
+DBC_ABOUT: acerca de
+DBC_CONTACT: contacto
+plain_search: Llanura Buscar
+ignore_this_section: No haga caso de esta sección
+location_search: Buscar una localidad
+country: país
+state_province: Estado / Provincia
+city: ciudad
+bedrooms: habitaciones
+bathrooms: Baños
+year_built: Año de construcción
+register: Registrarse
+area: zona
+details: Detalles
+view_all: Ver todos
+featured_estates: Estates destacados
+order_by: Ordenar por
+none: ninguno
+terms_and_conditions: Términos y confition
+reg_success_message: Su registro de la cuenta es exitosa . 
+limit: límite
+usage: uso
+recover: recuperar
+oops: Vaya, la página no encontrada
+share_this: Comparte este
+baths: Baños
+general_amenities: Servicios generales
+location_map: Mapa de localización
+image_gallery: Galería de imágenes
+summary: resumen
+overview: visión de conjunto
+address: dirección
+agent: agente
+message: mensaje
+DBC_PER_MONTH: por mes
+DBC_PER_QUARTER: por trimestre
+DBC_PER_YEAR: por Año
+DBC_TYPE_CONDO: Condo
+DBC_TYPE_VILLA: villa
+type_filers: Tipo Filtros
+purpose_filters: Propósito Filtros
+email_subject: Asunto del correo
+all: todos
+DBC_DELETED: Suprimido
+agent_estates: Agente Estates
+all_agents: todos los Agentes
+contact_us: contáctenos
+DBC_ACTIVE: activo
+radius: radio
+featured_video: video del día
+estates: Estates
+embed_video_url: Embeded URL de video
+DBC_PENDING: pendiente
+top_estates: Top Estates
+estate: inmuebles
+email_tracker: email Rastreador
+bulk_email: Correo electrónico masivo
+advanced_filters: Filtros avanzados
+purpose: propósito
+result: resultado
+agent_not_found: Agente no encontrado
+payment_notification: Usted va a hacer un pago . 
+confirmation: confirmación
+distance: distancia
+tags: Etiquetas
+zip_code: Código Postal
+embed_preview: Insertar Prevista
+login: Iniciar Sesión
+post_not_found: Post no encontrado
+view_more: Ver más
+choose_a_package: Elija un paquete
+no_package_found: No se han encontrado Paquete
+days: días
+posts: Mensajes
+change: cambio
+subscribe: suscribir
+home_size: Inicio Tamaño
+lot_size: Tamaño del lote
+DBC_PAGES: Páginas
+DBC_BLOG: Blog
+DBC_NEWS: noticias
+DBC_ARTICLES: artículos
+DBC_REPORTED: reportado
+all_estates: todos Estates
+image: imagen
+condition: condición
+sales_price: Precio de venta
+price_per_unit: Precio por unidad
+rent_price: Precio de Alquiler
+energy_efficiency: Eficiencia Energética
+custom_fields: Los campos personalizados
+view_on_map: Ver en el Mapa
+estate_add_status_video: En primer lugar crear raíces. 
+estate_add_status_gallery: En primer lugar crear propiedad. 
+create: crear
+basic_info: Información básica
+estate_brochure: Folleto Estate
+send: enviar
+all_email_to_agent: Todos los correos electrónicos a los agentes
+email_detail: Detalle email
+change_package: Cambio paquete
+bank_transfer: Transferencia bancaria
+contact_subject: Correo electrónico de contacto
+payment_finish_title: completa Pago
+payment_renew_title: completa Pago
+payment_finish_text: Su pago se ha completado. 
+payment_renew_text: Su pago se ha completado. 
+payment_cancel_title: Pago Cancelar
+payment_cancel_text: Su pago se cancela
+feature_payment_finish: Su pago se ha completado. 
+feature_payment_cancel: Su pago se cancela .
+DBC_CONDITION_RENTED: alquilado
+private_owner: particular
+dealer: comerciante
+selected_package: paquete seleccionado
+signup_with_social_account: Inscripción con cuenta los aspectos sociales
+password: contraseña
+confirm_password: confirmar Contraseña
+property_price: Precio total
+down_payment: Depósito
+term_in_years: No de Años
+annual_interest: De interés anual (% )
+installments_per_year: Cuotas por año
+monthly_payment: mensualidad
+mortgage_calculation: Calculadora de hipotecas
+all_posts: todos los mensajes
+no_posts: No hay mensajes
+title: título
+description: descripción
+status: estado
+actions: acciones
+action: acción
+type: tipo
+type_something: escriba algo
+content: contenido
+featured_image: Foto principal
+all_categories: todas las categorías
+edit_category: Editar la categoría
+new_category: nueva categoría
+parent: padre
+edit: editar
+delete: borrar
+name: nombre
+save: Guardar
+no_parent: Ningún padre
+edit_email_template: Editar plantilla de correo electrónico
+select_template_file: Seleccionar archivo de plantilla
+subject: sujeto
+body: cuerpo
+available_variables: Las variables disponibles
+select_language: Selecciona Idioma de la
+select_language_file: Seleccionar archivo de idioma
+edit_as_new: Editar como nuevo
+language: idioma
+add_another: Añadir otro
+export_to_file: Exportar a archivo
+import_from_file: Importar desde archivo
+auto_translator: Traductor automático
+from_lang: Desde lang
+target_lang_full_name: Target lang nombre completo
+target_lang_short_name: Target lang nombre corto
+create_new_package: Crear nuevo paquete
+price: precio
+maximum_post_by_user: Mensajes máximo por usuario
+expirtion_time: Tiempo Expirtion ( días )
+create_package: crear paquete
+edit_package: Editar paquete
+update_package: paquete de actualización
+add_packages: Añadir paquetes
+all_packages: todos los paquetes
+no_packages: No hay paquetes
+options: Opciones
+all_pages: todas las páginas
+no_pages: Ninguna página
+manage_menu: administrar menú
+menu_title: Título del menú
+menu_alias: alias de menú
+show_in_menu: Mostrar en el menú
+page_layout: diseño de página
+content_from: contenido de
+url: Url
+seo_options: opciones de SEO
+meta_description: meta descripción
+key_words: palabras clave
+crawl_after: Crawl después ( día )
+all_plugins: todos los plugins
+no_plugins: No hay plugins
+name_and_version: Nombre y versión
+change_password: cambiar la contraseña
+current_password: contraseña actual
+new_password: nueva contraseña
+retype_password: Vuelva a escribir la contraseña
+password_reset_info_msg: Por favor Primera Establezca su nueva contraseña
+edit_profile: Editar perfil
+profile_picture: Foto de Perfil
+username: Nombre de usuario
+email: Correo electrónico
+first_name: Nombre De Pila
+last_name: apellido
+gender: género
+phone: teléfono
+company_name: Nombre De Empresa
+about_me: Acerca De Mí
+facebook_account: cuenta Facebook
+twitter_account: cuenta de Twitter
+linkedin_account: Linkedin cuenta
+gp_account: cuenta de Google+
+account_msg: 'Por favor indica el enlace , sin http : //'
+web_email_settings: Configuración del correo Web
+contact_email: Correo electrónico de contacto
+webadmin_name: Nombre WebAdmin
+webadmin_email: WebAdmin Email
+update: actualización
+upload: Subir
+site_settings: Configuración del sitio
+site_title: Titulo del Sitio
+footer_text: Pie de página del texto
+site_logo: Logo del sitio
+site_language: el idioma del sitio
+site_text_direction: Sitio Dirección del texto
+per_page: La paginación por Página
+default_page_layout: Por defecto Diseño de página
+tracking_code: Código de seguimiento
+smtp_email_settings: SMTP Configuración del correo electrónico
+smtp_email: SMTP Email
+smtp_host: SMTP Host
+smtp_port: Puerto SMTP
+smtp_timeout: Tiempo de espera SMTP
+smtp_user: SMTP del usuario
+smtp_password: Contraseña SMTP
+generate_site_map: Generar Mapa del Sitio
+sitemap_info_msg: Por favor, seleccione el que desea ser incluido en XML Sitemap . 
+pages: Páginas
+blog_posts: Mensajes de blog
+view_xml: Ver XML
+create_xml: crear XML
+manage_backups: administrar copias de seguridad
+create_sql_backup: Crear SQL Backup
+create_image_backup: Crear imagen de copia de seguridad
+restore: restaurar
+download: descargar
+dashboard: salpicadero
+overview_stats_more: Resumen, Estadísticas y Más
+visit_site: visita del sitio
+logout: Cerrar sesión
+themes: temas
+real_estate: Bienes Raíces
+locations: Ubicaciones
+amenities: comodidades
+distance_fields: Los campos distancia
+paypal_settings: Ajustes Paypal
+payment_history: Historial de pagos
+profile: perfil
+packages: Paquetes
+agents: Agentes
+widgets: Widgets
+all_widgets: todos los Widgets
+widget_positions: Posiciones Widget
+blog_news_article: Blog / Noticias / Artículo
+new_post: Nuevo post
+pages_and_menu: Páginas y Menú
+new_page: nueva página
+menu: menú
+system: sistema
+manage_languages: administrar Idiomas
+auto_translate: Traducir Auto
+edit_email_text: Editar Email Texto
+admin_settings: Configuraciones de admin
+sitemap: Mapa del Sitio
+activate: activar
+active_theme: Tema activo
+available_themes: Temas disponibles
+all_users: todos los usuarios
+create_user: crear usuario
+export_user_email: Los correos electrónicos de las Exportaciones de usuario ( .csv )
+profile_info: Información del Perfil
+ban_forever: Prohibición para siempre
+edit_page: Editar página
+create_widget: crear Widget
+widget_name: Nombre Widget
+activate_deactivate: Activar / desactivar
+show: show
+available_widgets: Disponible Widgets
+active_widgets: Widgets Activo
+delete_warning: ¿Seguro que quieres no eliminar.
+confirm_yes: Sí Borrar
+confirm_no: cancelar
+date: fecha
+from: desde
+reactivate: reactivar
+agent_profile: perfil de agente
+samplepage: página de muestra

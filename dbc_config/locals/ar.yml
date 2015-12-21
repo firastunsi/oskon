@@ -1,0 +1,315 @@
+---
+DBC_PURPOSE_SALE: بيع
+DBC_PURPOSE_RENT: إيجار
+DBC_PURPOSE_BOTH: بيع و إيجار
+DBC_TYPE_APARTMENT: شقة
+DBC_TYPE_HOUSE: منزل
+DBC_TYPE_LAND: أرض
+DBC_TYPE_COMSPACE: مساحة تجارية
+DBC_CONDITION_NEW: جديد
+DBC_CONDITION_SOLD: تباع
+DBC_CONDITION_AVAILABLE: متاح
+DBC_CONDITION_AUCTION: مزاد علني
+sign_in: تسجيل الدخول
+sign_up: سجل
+agent_panel: لوحة الوكيل
+admin_panel: لوحة المشرف
+find_your_place: البحث عن مكان الخاصة بك
+search_text_banner: البحث عن العناوين، الجوار ، مدينة أو دولة
+DBC_ADVANCED_SEARCH: البحث المتقدم
+recent_estates: عقارات الأخيرة
+DBC_AGENTS: وكلاء
+no_estates_found: لا العقارات التي تم العثور عليها
+DBC_HOME: منزل
+DBC_ABOUT: حول
+DBC_CONTACT: اتصال
+plain_search: بحث عادي
+ignore_this_section: تجاهل هذا القسم
+location_search: البحث عن موقع
+country: بلد
+state_province: الدولة / مقاطعة
+city: مدينة
+bedrooms: غرف نوم
+bathrooms: الحمامات
+year_built: بنيت عام
+register: تسجيل
+area: منطقة
+details: تفاصيل
+view_all: عرض جميع
+featured_estates: عقارات مميزة
+order_by: الترتيب حسب
+none: لا شيء
+terms_and_conditions: الشروط و Confition
+reg_success_message: تسجيل حسابك ناجحا . 
+limit: حد
+usage: استعمال
+recover: استعادة
+oops: عفوا، لم يتم العثور على الصفحة
+share_this: شارك هذا
+baths: الحمامات
+general_amenities: وسائل الراحة العامة
+location_map: خريطة الموقع
+image_gallery: معرض الصور
+summary: ملخص
+overview: نظرة عامة
+address: عنوان
+agent: وكيل
+message: رسالة
+DBC_PER_MONTH: في شهر
+DBC_PER_QUARTER: في الربع
+DBC_PER_YEAR: في السنة
+DBC_TYPE_CONDO: كوندو
+DBC_TYPE_VILLA: فيلا
+type_filers: نوع الفلاتر
+purpose_filters: مرشحات الغرض
+email_subject: موضوع الرسالة
+all: جميع
+DBC_DELETED: حذف
+agent_estates: وكيل عقارات
+all_agents: كل الوكلاء
+contact_us: اتصل بنا
+DBC_ACTIVE: نشط
+radius: نصف القطر
+featured_video: فيديو متميز
+estates: عقارات
+embed_video_url: مطعم ب فيديو رابط
+DBC_PENDING: ريثما
+top_estates: أعلى عقارات
+estate: عزبة
+email_tracker: البريد الإلكتروني المقتفي
+bulk_email: معظم البريد الإلكتروني
+advanced_filters: مرشحات متقدمة
+purpose: هدف
+result: نتيجة
+agent_not_found: وكيل لم يتم العثور على
+payment_notification: أنت ذاهب لجعل الدفع. 
+confirmation: التأكيد
+distance: بعد
+tags: الكلمات
+zip_code: الرمز البريدي
+embed_preview: تضمين معاينة
+login: تسجيل الدخول
+post_not_found: الرد لم يتم العثور على
+view_more: عرض المزيد
+choose_a_package: اختيار حزمة
+no_package_found: لم يتم العثور على حزمة
+days: أيام
+posts: المشاركات
+change: تغيير
+subscribe: الاشتراك
+home_size: الرئيسية الحجم
+lot_size: الكثير الحجم
+DBC_PAGES: صفحات
+DBC_BLOG: بلوق
+DBC_NEWS: أخبار
+DBC_ARTICLES: مقالات
+DBC_REPORTED: وذكرت
+all_estates: كل المدن
+image: صورة
+condition: حالة
+sales_price: سعر البيع
+price_per_unit: سعر الوحدة
+rent_price: للإيجار السعر
+energy_efficiency: كفاءة استخدام الطاقة
+custom_fields: الحقول المخصصة
+view_on_map: عرض على الخريطة
+estate_add_status_video: أولا إنشاء الحوزة. 
+estate_add_status_gallery: أولا إنشاء الممتلكات. 
+create: خلق
+basic_info: معلومات بسيطة
+estate_brochure: العقارات كتيب
+send: إرسال
+all_email_to_agent: جميع رسائل البريد الإلكتروني وكلاء
+email_detail: البريد الإلكتروني التفاصيل
+change_package: تغيير حزمة
+bank_transfer: تحويل مصرفي
+contact_subject: الاتصال البريد الإلكتروني
+payment_finish_title: الدفع الكامل
+payment_renew_title: الدفع الكامل
+payment_finish_text: الدفع الخاص بك هو الكامل . 
+payment_renew_text: الدفع الخاص بك هو الكامل . 
+payment_cancel_title: الدفع إلغاء
+payment_cancel_text: يتم إلغاء الدفع الخاص بك
+feature_payment_finish: الدفع الخاص بك هو الكامل . 
+feature_payment_cancel: تم إلغاء دفعتك.
+DBC_CONDITION_RENTED: مؤجر
+private_owner: المالك الخاص
+dealer: تاجر
+selected_package: اختيار حزمة
+signup_with_social_account: الاشتراك مع حساب الاجتماعي
+password: كلمة المرور
+confirm_password: تأكيد كلمة المرور
+property_price: السعر الإجمالي
+down_payment: دفعة أولى
+term_in_years: عدد سنوات
+annual_interest: الفائدة لكل السنة (٪)
+installments_per_year: الدفعة لكل السنة
+monthly_payment: الدفع الشهري
+mortgage_calculation: حاسبة الرهن العقاري
+all_posts: جميع المشاركات
+no_posts: لا يوجد ردود
+title: لقب
+description: وصف
+status: وضع
+actions: تطبيقات
+action: عمل
+type: نوع
+type_something: اكتب شيئا
+content: مضمون
+featured_image: صورة مميزة
+all_categories: جميع الفئات
+edit_category: تحرير فئة
+new_category: فئة جديدة
+parent: أصل
+edit: تحرير
+delete: حذف
+name: اسم
+save: حفظ
+no_parent: لا الأم
+edit_email_template: تحرير قالب البريد الإلكتروني
+select_template_file: حدد ملف القالب
+subject: موضوع
+body: هيئة
+available_variables: المتغيرات المتاحة
+select_language: اختر اللغة
+select_language_file: اختر ملف اللغة
+edit_as_new: تحرير على أنها جديدة
+language: لغة
+add_another: إضافة آخر
+export_to_file: تصدير إلى ملف
+import_from_file: استيراد من ملف
+auto_translator: الترجمة السيارات
+from_lang: من لانج
+target_lang_full_name: الهدف انج الاسم الكامل
+target_lang_short_name: الهدف انج اسم قصير
+create_new_package: خلق حزمة جديدة
+price: السعر
+maximum_post_by_user: المشاركات القصوى من قبل المستخدم
+expirtion_time: الوقت Expirtion (أيام)
+create_package: خلق حزمة
+edit_package: تحرير حزمة
+update_package: تحديث حزمة
+add_packages: إضافة حزم
+all_packages: كل الحزم
+no_packages: لا حزم
+options: خيارات
+all_pages: كل الصفحات
+no_pages: لا توجد صفحات
+manage_menu: إدارة القائمة
+menu_title: القائمة عنوان
+menu_alias: الاسم المستعار القائمة
+show_in_menu: تظهر في القائمة
+page_layout: تخطيط الصفحة
+content_from: المحتوى من
+url: رابط
+seo_options: خيارات SEO
+meta_description: وصف ميتا
+key_words: الكلمات الرئيسية
+crawl_after: الزحف بعد (أيام)
+all_plugins: كل الإضافات
+no_plugins: لا الإضافات
+name_and_version: اسم وإصدار
+change_password: تغيير كلمة المرور
+current_password: كلمة المرور الحالية
+new_password: كلمة المرور الجديدة
+retype_password: أعد كتابة كلمة السر
+password_reset_info_msg: يرجى أولا تعيين الخاص بك كلمة السر الجديدة
+edit_profile: تعديل الملف الشخصي
+profile_picture: الصورة الشخصية
+username: اسم المستخدم
+email: البريد الإلكتروني
+first_name: الاسم الأول
+last_name: اسم العائلة
+gender: جنس
+phone: هاتف
+company_name: اسم الشركة
+about_me: عني
+facebook_account: حساب الفيسبوك
+twitter_account: حساب تويتر
+linkedin_account: حساب ينكدين
+gp_account: حساب + Google
+account_msg: 'من فضلك ادخل على الرابط ، من دون HTTP : //'
+web_email_settings: إعدادات ويب البريد الإلكتروني
+contact_email: الاتصال البريد الإلكتروني
+webadmin_name: اسم Webadmin
+webadmin_email: Webadmin البريد الإلكتروني
+update: تحديث
+upload: تحميل
+site_settings: إعدادات الموقع
+site_title: عنوان الموقع
+footer_text: تذييل النص
+site_logo: شعار الموقع
+site_language: اختر لغة الموقع
+site_text_direction: الموقع اتجاه النص
+per_page: ترقيم الصفحات لكل الصفحة
+default_page_layout: افتراضي تخطيط الصفحة
+tracking_code: شفرة تتبع
+smtp_email_settings: إعدادات البريد الإلكتروني SMTP
+smtp_email: SMTP البريد الإلكتروني
+smtp_host: SMTP المضيف
+smtp_port: ميناء SMTP
+smtp_timeout: مهلة SMTP
+smtp_user: SMTP العضو
+smtp_password: SMTP كلمة المرور
+generate_site_map: توليد خريطة الموقع
+sitemap_info_msg: الرجاء اختيار الذي تريد إدراجها على خريطة الموقع XML. 
+pages: صفحات
+blog_posts: بلوق المشاركات
+view_xml: عرض XML
+create_xml: خلق XML
+manage_backups: إدارة النسخ الاحتياطية
+create_sql_backup: خلق SQL النسخ الاحتياطي
+create_image_backup: خلق صورة النسخ الاحتياطي
+restore: استعادة
+download: تحميل
+dashboard: لوحة القيادة
+overview_stats_more: نظرة عامة، و الإحصائيات و أكثر
+visit_site: زيارة الموقع
+logout: تسجيل الخروج
+themes: الموضوعات
+real_estate: العقارات
+locations: المواقع
+amenities: وسائل الراحة
+distance_fields: الحقول المسافة
+paypal_settings: إعدادات باي بال
+payment_history: تاريخ الدفع
+profile: الملف الشخصي
+packages: حزم
+agents: وكلاء
+widgets: الحاجيات
+all_widgets: جميع الحاجيات
+widget_positions: المراكز القطعة
+blog_news_article: بلوق / أخبار / المادة
+new_post: وظيفة جديدة
+pages_and_menu: صفحات و القائمة
+new_page: الصفحة الجديدة
+menu: قائمة الطعام
+system: نظام
+manage_languages: إدارة اللغات
+auto_translate: السيارات ترجمة
+edit_email_text: تحرير رسالة نصية
+admin_settings: إعدادات المشرف
+sitemap: خريطة الموقع
+activate: نشط
+active_theme: موضوع نشط
+available_themes: ثيمات المتاحة
+all_users: جميع الاعضاء
+create_user: خلق العضو
+export_user_email: رسائل البريد الإلكتروني التصدير العضو (CSV )
+profile_info: معلومات الملف الشخصي
+ban_forever: حظر للأبد
+edit_page: تحرير الصفحة
+create_widget: خلق القطعة
+widget_name: اسم القطعة
+activate_deactivate: تفعيل / دي تنشيط
+show: عرض
+available_widgets: المتاحة الحاجيات
+active_widgets: الحاجيات النشطة
+delete_warning: هل تريد بالتأكيد حذف لا .
+confirm_yes: نعم حذف
+confirm_no: إلغاء
+date: تاريخ
+from: من
+reactivate: تنشيط
+agent_profile: وكيل الملف الشخصي
+samplepage:الصفحة عينة

@@ -1,0 +1,315 @@
+---
+DBC_PURPOSE_SALE: verkoop
+DBC_PURPOSE_RENT: huur
+DBC_PURPOSE_BOTH: Koop & Te Huur
+DBC_TYPE_APARTMENT: appartement
+DBC_TYPE_HOUSE: huis
+DBC_TYPE_LAND: land
+DBC_TYPE_COMSPACE: Commercial Space
+DBC_CONDITION_NEW: nieuw
+DBC_CONDITION_SOLD: uitverkocht
+DBC_CONDITION_AVAILABLE: beschikbaar
+DBC_CONDITION_AUCTION: veiling
+sign_in: Aanmelden
+sign_up: Inschrijven
+agent_panel: Agent Panel
+admin_panel: Admin Panel
+find_your_place: Vind Your Place
+search_text_banner: Zoeken naar Adres , nabuurschap , Stad of State
+DBC_ADVANCED_SEARCH: geavanceerd Zoeken
+recent_estates: recente Estates
+DBC_AGENTS: agenten
+no_estates_found: Geen Estates Gevonden
+DBC_HOME: huis
+DBC_ABOUT: over
+DBC_CONTACT: contact
+plain_search: vlakte Zoeken
+ignore_this_section: Negeer deze sectie
+location_search: locatie Zoek
+country: land
+state_province: Staat / Provincie
+city: City
+bedrooms: slaapkamers
+bathrooms: badkamers
+year_built: Bouwjaar
+register: Registreer
+area: gebied
+details: Details
+view_all: Bekijk Alles
+featured_estates: Aanbevolen Estates
+order_by: Door Bestel
+none: geen
+terms_and_conditions: Algemene confition
+reg_success_message: Je account registratie is succesvol . 
+limit: limiet
+usage: gebruik
+recover: herstellen
+oops: Oeps , pagina niet gevonden
+share_this: Deel Dit
+baths: baden
+general_amenities: Algemene voorzieningen
+location_map: Plattegrond
+image_gallery: Image Gallery
+summary: overzicht
+overview: Overzicht
+address: adres
+agent: agent
+message: bericht
+DBC_PER_MONTH: per Maand
+DBC_PER_QUARTER: per wijk
+DBC_PER_YEAR: per Jaar
+DBC_TYPE_CONDO: condo
+DBC_TYPE_VILLA: villa
+type_filers: Type Filters
+purpose_filters: doel Filters
+email_subject: e-mail Onderwerp
+all: alle
+DBC_DELETED: verwijderde
+agent_estates: Agent Estates
+all_agents: alle Agents
+contact_us: Contacteer ons
+DBC_ACTIVE: actief
+radius: straal
+featured_video: Aanbevolen video
+estates: landgoederen
+embed_video_url: Embeded Video Url
+DBC_PENDING: in afwachting van
+top_estates: Top Estates
+estate: landgoed
+email_tracker: e-mail Tracker
+bulk_email: bulk Email
+advanced_filters: geavanceerde filters
+purpose: doel
+result: resultaat
+agent_not_found: Agent niet gevonden
+payment_notification: Je gaat naar een betaling uit te voeren . 
+confirmation: bevestiging
+distance: afstand
+tags: Tags
+zip_code: Postcode
+embed_preview: Voorbeelden insluiten
+login: Log In
+post_not_found: Plaats niet gevonden
+view_more: Meer bekijken
+choose_a_package: Kies een pakket
+no_package_found: Geen pakket gevonden
+days: dagen
+posts: berichten
+change: verandering
+subscribe: abonneren
+home_size: thuis Size
+lot_size: Lot Size
+DBC_PAGES: pagina's
+DBC_BLOG: blog
+DBC_NEWS: nieuws
+DBC_ARTICLES: artikelen
+DBC_REPORTED: gerapporteerd
+all_estates: alle Estates
+image: afbeelding
+condition: conditie
+sales_price: Sales Prijs
+price_per_unit: Prijs per product
+rent_price: huurprijs
+energy_efficiency: energie-efficiëntie
+custom_fields: aangepaste velden
+view_on_map: Bekijk op de kaart
+estate_add_status_video: Maak eerst goed . 
+estate_add_status_gallery: Maak eerst eigendom. 
+create: creëren
+basic_info: Basis Informatie
+estate_brochure: Estate Brochure
+send: sturen
+all_email_to_agent: Alle e-mails te Agents
+email_detail: e-mail Detail
+change_package: Change Package
+bank_transfer: overschrijving
+contact_subject: Contact E-mail
+payment_finish_title: betaling Compleet
+payment_renew_title: betaling Compleet
+payment_finish_text: Uw betaling is voltooid. 
+payment_renew_text: Uw betaling is voltooid. 
+payment_cancel_title: betaling Annuleren
+payment_cancel_text: Uw betaling wordt geannuleerd
+feature_payment_finish: Uw betaling is voltooid. 
+feature_payment_cancel: Uw betaling wordt geannuleerd .
+DBC_CONDITION_RENTED: verhuurd
+private_owner: particuliere eigenaar
+dealer: handelaar
+selected_package: geselecteerde Pakket
+signup_with_social_account: Inschrijven met sociale rekening
+password: wachtwoord
+confirm_password: Bevestig Wachtwoord
+property_price: totale Prijs
+down_payment: aanbetaling
+term_in_years: Geen van de Jaren
+annual_interest: Rente per jaar ( % )
+installments_per_year: Tranche per Jaar
+monthly_payment: maandelijkse betaling
+mortgage_calculation: hypotheek Calculator
+all_posts: alle berichten
+no_posts: geen berichten
+title: titel
+description: beschrijving
+status: toestand
+actions: acties
+action: actie
+type: type
+type_something: Typ iets
+content: inhoud
+featured_image: Featured Image
+all_categories: alle categorieën
+edit_category: categorie bewerken
+new_category: nieuwe categorie
+parent: ouder
+edit: uitgeven
+delete: verwijderen
+name: naam
+save: Opslaan
+no_parent: geen enkele ouder
+edit_email_template: E-mail template bewerken
+select_template_file: Kies een template -bestand
+subject: onderwerp
+body: lichaam
+available_variables: beschikbare variabelen
+select_language: Taal selecteren
+select_language_file: Kies taalbestand
+edit_as_new: Bewerken als nieuw
+language: taal
+add_another: Voeg andere
+export_to_file: Exporteren naar bestand
+import_from_file: Importeren uit bestand
+auto_translator: Auto vertaler
+from_lang: van lang
+target_lang_full_name: Target lang volledige naam
+target_lang_short_name: Target lang korte naam
+create_new_package: Nieuw pakket maken
+price: prijs
+maximum_post_by_user: Maximale berichten van gebruiker
+expirtion_time: Expirtion tijd ( dagen )
+create_package: Maak Pakket
+edit_package: pakket bewerken
+update_package: updatepakket
+add_packages: pakketten toe te voegen
+all_packages: alle pakketten
+no_packages: geen pakketten
+options: opties
+all_pages: alle pagina's
+no_pages: geen enkele pagina
+manage_menu: Beheer Menu
+menu_title: menu Titel
+menu_alias: menu alias
+show_in_menu: Toon in menu
+page_layout: pagina layout
+content_from: inhoud van
+url: url
+seo_options: SEO opties
+meta_description: meta description
+key_words: Steekwoorden
+crawl_after: Crawl na ( dagen)
+all_plugins: alle plugins
+no_plugins: geen plugins
+name_and_version: Naam en versie
+change_password: verander wachtwoord
+current_password: huidig ​​wachtwoord
+new_password: nieuw Wachtwoord
+retype_password: Geef nogmaals het wachtwoord
+password_reset_info_msg: Gelieve Stel eerst uw nieuwe wachtwoord
+edit_profile: bewerk profiel
+profile_picture: profielfoto
+username: gebruikersnaam
+email: e-mail
+first_name: Voornaam
+last_name: achternaam
+gender: geslacht
+phone: telefoon
+company_name: Bedrijfsnaam
+about_me: over Mij
+facebook_account: Facebook-account
+twitter_account: Twitter-account
+linkedin_account: LinkedIn-account
+gp_account: Google+ account
+account_msg: 'Vul de koppeling , zonder http : //'
+web_email_settings: Web E-mailinstellingen
+contact_email: Contact E-mail
+webadmin_name: webadmin Naam
+webadmin_email: webadmin Email
+update: -update
+upload: uploaden
+site_settings: Site-instellingen
+site_title: Site Title
+footer_text: footer Text
+site_logo: Site Logo
+site_language: Site Taal
+site_text_direction: Site Text Direction
+per_page: Paginering per pagina
+default_page_layout: Standaardpagina-indeling
+tracking_code: Tracking Code
+smtp_email_settings: SMTP E-mailinstellingen
+smtp_email: SMTP e-
+smtp_host: SMTP Host
+smtp_port: SMTP-poort
+smtp_timeout: SMTP-timeout
+smtp_user: SMTP Gebruiker
+smtp_password: SMTP-wachtwoord
+generate_site_map: Genereer Sitemap
+sitemap_info_msg: Gelieve te selecteren welke u wilt worden opgenomen op sitemap xml . 
+pages: pagina's
+blog_posts: blog berichten
+view_xml: Bekijk XML
+create_xml: Maak XML
+manage_backups: Beheer Backups
+create_sql_backup: Maak SQL Backup
+create_image_backup: Maak Image Backup
+restore: herstellen
+download: Download
+dashboard: dashboard
+overview_stats_more: Overzicht , statistieken en meer
+visit_site: bezoek site
+logout: uitloggen
+themes: Thema's
+real_estate: Vastgoed
+locations: locaties
+amenities: voorzieningen
+distance_fields: Afstand Velden
+paypal_settings: Paypal Instellingen
+payment_history: Betaalgeschiedenis
+profile: profiel
+packages: colli
+agents: agenten
+widgets: widgets
+all_widgets: alle Widgets
+widget_positions: widget posities
+blog_news_article: Blog / Nieuws / Artikel
+new_post: nieuwe post
+pages_and_menu: Pagina's & Menu
+new_page: New Page
+menu: menu
+system: systeem
+manage_languages: Beheer Talen
+auto_translate: Auto Translate
+edit_email_text: Bewerk Email Tekst
+admin_settings: Admin Settings
+sitemap: Sitemap
+activate: activeren
+active_theme: actieve Theme
+available_themes: beschikbaar Thema
+all_users: alle gebruikers
+create_user: Gebruiker aanmaken
+export_user_email: Export Gebruiker Emails ( .csv )
+profile_info: profiel Info
+ban_forever: Ban blijvend
+edit_page: Pagina bewerken
+create_widget: Maak Widget
+widget_name: widget Naam
+activate_deactivate: Activeren / deactiveren
+show: tonen
+available_widgets: beschikbaar Widgets
+active_widgets: actieve Widgets
+delete_warning: Weet je zeker wilt doen verwijderen.
+confirm_yes: Ja Verwijder
+confirm_no: annuleren
+date: datum
+from: uit
+reactivate: reactiveren
+agent_profile: Agent profiel
+samplepage: voorbeeldpagina

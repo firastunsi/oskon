@@ -1,0 +1,316 @@
+---
+DBC_PURPOSE_SALE: salg
+DBC_PURPOSE_RENT: leie
+DBC_PURPOSE_BOTH: Salg og leie
+DBC_TYPE_APARTMENT: leilighet
+DBC_TYPE_HOUSE: hus
+DBC_TYPE_LAND: land
+DBC_TYPE_COMSPACE: Commercial Space
+DBC_CONDITION_NEW: ny
+DBC_CONDITION_SOLD: selges
+DBC_CONDITION_AVAILABLE: tilgjengelig
+DBC_CONDITION_AUCTION: Auksjon
+sign_in: Logg inn
+sign_up: Registrer deg
+agent_panel: Agent Panel
+admin_panel: admin Panel
+find_your_place: Finn ditt Place
+search_text_banner: Søk etter Adresse Neighbourhood , by eller stat
+DBC_ADVANCED_SEARCH: Avansert søk
+recent_estates: nylige Estates
+DBC_AGENTS: agenter
+no_estates_found: Ingen Estates Funnet
+DBC_HOME: hjem
+DBC_ABOUT: omtrent
+DBC_CONTACT: Kontakt
+plain_search: vanlig søk
+ignore_this_section: Ignorere denne delen
+location_search: Sted Søk
+country: land
+state_province: Stat / provins
+city: by
+bedrooms: soverom
+bathrooms: Badene
+year_built: Byggeår
+register: Registrer
+area: område
+details: detaljer
+view_all: Se alle
+featured_estates: Utvalgte Estates
+order_by: Sorter med
+none: none
+terms_and_conditions: Vilkår og Confition
+reg_success_message: Din konto registrering er vellykket . 
+limit: grense
+usage: bruk
+recover: gjenopprette
+oops: Oops , side ikke funnet
+share_this: Del denne
+baths: Baths
+general_amenities: Generelle Fasiliteter
+location_map: Location Map
+image_gallery: Bildegalleri
+summary: oppsummering
+overview: oversikt
+address: adresse
+agent: Agent
+message: beskjed
+DBC_PER_MONTH: per måned
+DBC_PER_QUARTER: per Quarter
+DBC_PER_YEAR: per år
+DBC_TYPE_CONDO: leilighet
+DBC_TYPE_VILLA: Villa
+type_filers: type filtre
+purpose_filters: formål Filters
+email_subject: e-post Subject
+all: alt
+DBC_DELETED: slettet
+agent_estates: Agent Estates
+all_agents: alle Agenter
+contact_us: Kontakt oss
+DBC_ACTIVE: aktiv
+radius: radius
+featured_video: Utvalgte Video
+estates: Estates
+embed_video_url: Embeded Video Url
+DBC_PENDING: Avventer
+top_estates: Topp Estates
+estate: eiendom
+email_tracker: epost Tracker
+bulk_email: Bulk Email
+advanced_filters: avanserte filtre
+purpose: formål
+result: resultat
+agent_not_found: Agent Not Found
+payment_notification: Du kommer til å foreta en betaling . 
+confirmation: bekreftelse
+distance: avstand
+tags: Tags
+zip_code: postnummer
+embed_preview: embed Preview
+login: innlogging
+post_not_found: Poste ikke funnet
+view_more: vise mer
+choose_a_package: Velg en pakke
+no_package_found: Ingen Package funnet
+days: dager
+posts: innlegg
+change: endring
+subscribe: Abonner
+home_size: Hjem Størrelse
+lot_size: Tomtestørrelse
+DBC_PAGES: sider
+DBC_BLOG: blogg
+DBC_NEWS: nyheter
+DBC_ARTICLES: artikler
+DBC_REPORTED: rapportert
+all_estates: alle Estates
+image: bilde
+condition: tilstand
+sales_price: salgspris
+price_per_unit: Pris per enhet
+rent_price: leie Pris
+energy_efficiency: Energieffektivitet
+custom_fields: definerte felt
+view_on_map: Vis på kart
+estate_add_status_video: Først opprette eiendom . 
+estate_add_status_gallery: Først opprette eiendom . 
+create: Lag
+basic_info: grunnleggende informasjon
+estate_brochure: eiendom brosjyre
+send: sende
+all_email_to_agent: Alle e-post til Agents
+email_detail: e-post Detalj
+change_package: Endre Package
+bank_transfer: Bankoverføring
+contact_subject: Kontakt E-post
+payment_finish_title: betaling Komplett
+payment_renew_title: betaling Komplett
+payment_finish_text: Betalingen er fullført. 
+payment_renew_text: Betalingen er fullført. 
+payment_cancel_title: betaling Avbryt
+payment_cancel_text: Betalingen er avlyst
+feature_payment_finish: Betalingen er fullført. 
+feature_payment_cancel: Betalingen er kansellert.
+DBC_CONDITION_RENTED: leide
+private_owner: privat eier
+dealer: forhandler
+selected_package: valgt Package
+signup_with_social_account: Registreringsskjema med sosial konto
+password: passord
+confirm_password: bekreft Passord
+property_price: Total pris
+down_payment: Forskuddsbetaling
+term_in_years: Ingen av Years
+annual_interest: Renter per år (% )
+installments_per_year: Avdrag per år
+monthly_payment: månedlig terminbeløp
+mortgage_calculation: Lånekalkulator
+all_posts: alle innlegg
+no_posts: ingen innlegg
+title: Tittel
+description: Beskrivelse
+status: status
+actions: handlinger
+action: handling
+type: Type
+type_something: skriver noe
+content: innhold
+featured_image: Utvalgte Bilde
+all_categories: alle kategorier
+edit_category: Rediger kategori
+new_category: ny kategori
+parent: forelder
+edit: Rediger
+delete: Slett
+name: navn
+save: Lagre
+no_parent: ingen foreldre
+edit_email_template: 'Rediger e- mal'
+select_template_file: Velg mal fil
+subject: Subject
+body: Body
+available_variables: tilgjengelige variabler
+select_language: Velg språk
+select_language_file: Velg språkfil
+edit_as_new: Edit som ny
+language: språk
+add_another: Legg til en
+export_to_file: Eksporter til fil
+import_from_file: Import fra fil
+auto_translator: Auto overs
+from_lang: fra lang
+target_lang_full_name: Target lang fullt navn
+target_lang_short_name: Target lang kortnavn
+create_new_package: Opprett ny pakke
+price: pris
+maximum_post_by_user: Maksimale innlegg av brukeren
+expirtion_time: Expirtion tid ( dager)
+create_package: Lag Package
+edit_package: edit pakke
+update_package: oppdateringspakken
+add_packages: Legg pakkene
+all_packages: alle pakker
+no_packages: ingen pakker
+options: opsjoner
+all_pages: alle sider
+no_pages: ingen sider
+manage_menu: administrere Meny
+menu_title: meny Tittel
+menu_alias: Meny alias
+show_in_menu: Show i menyen
+page_layout: Page layout
+content_from: innhold fra
+url: url
+seo_options: SEO alternativer
+meta_description: meta beskrivelse
+key_words: stikkord
+crawl_after: Crawl etter (dager )
+all_plugins: alle plugins
+no_plugins: ingen plugins
+name_and_version: Navn og versjon
+change_password: Endre passord
+current_password: Nåværende passord
+new_password: nytt passord
+retype_password: skriv inn passord
+password_reset_info_msg: Vennligst Først Still inn nytt passord
+edit_profile: Rediger profil
+profile_picture: Profilbilde
+username: brukernavn
+email: e-post
+first_name: Fornavn
+last_name: etternavn
+gender: kjønn
+phone: telefon
+company_name: Firmanavn
+about_me: om meg
+facebook_account: Facebook-konto
+twitter_account: Twitter-konto
+linkedin_account: Linkedin -konto
+gp_account: Google + -konto
+account_msg: 'Skriv inn koblingen, uten http : //'
+web_email_settings: Web E-postinnstillinger
+contact_email: Kontakt E-post
+webadmin_name: webadmin Name
+webadmin_email: webadmin Email
+update: oppdatering
+upload: opplasting
+site_settings: Innstillinger for webområde
+site_title: Sidetittel
+footer_text: bunntekst
+site_logo: Site Logo
+site_language: Side Språk
+site_text_direction: Sidetekstretning
+per_page: Paginering Per Page
+default_page_layout: Standard sideoppsett
+tracking_code: sporingskode
+smtp_email_settings: SMTP e-postinnstillinger
+smtp_email: SMTP e-post
+smtp_host: SMTP Host
+smtp_port: SMTP Port
+smtp_timeout: SMTP Timeout
+smtp_user: SMTP User
+smtp_password: SMTP passord
+generate_site_map: Generere Site Map
+sitemap_info_msg: Velg den du ønsker å være med på sitemap xml . 
+pages: sider
+blog_posts: blogginnlegg
+view_xml: Vis XML
+create_xml: Lag XML
+manage_backups: Administrer sikkerhetskopier
+create_sql_backup: Lag SQL Backup
+create_image_backup: Lag Bilde Backup
+restore: gjenopprette
+download: Last ned
+dashboard: dashbord
+overview_stats_more: Oversikt , statistikk og mer
+visit_site: besøk side
+logout: utlogging
+themes: temaer
+real_estate: eiendom
+locations: steder
+amenities: Fasiliteter
+distance_fields: avstands Fields
+paypal_settings: Paypal Innstillinger
+payment_history: Betalingserfaring
+profile: profil
+packages: pakker
+agents: agenter
+widgets: widgets
+all_widgets: alle Widgets
+widget_positions: widget Posisjoner
+blog_news_article: Blogg / Nyheter / Artikkel
+new_post: New Post
+pages_and_menu: Sider & Meny
+new_page: New Page
+menu: meny
+system: system
+manage_languages: administrere Språk
+auto_translate: Auto Trans
+edit_email_text: Rediger E-post Tekst
+admin_settings: Administratorinnstillinger
+sitemap: Sidekart
+activate: aktivere
+active_theme: aktiv Theme
+available_themes: tilgjengelige Temaer
+all_users: alle brukere
+create_user: Opprett bruker
+export_user_email: Eksport Bruker e-post ( CSV ​​)
+profile_info: Profilinformasjon
+ban_forever: Ban Alltid
+edit_page: Rediger side
+create_widget: Lag Widget
+widget_name: Widget navn
+activate_deactivate: Aktivere / deaktivere
+show: Vis
+available_widgets: tilgjengelig Widgets
+active_widgets: aktive Widgets
+delete_warning: Er du sikker på at du ikke slette .
+confirm_yes: Ja Slett
+confirm_no: Avbryt
+date: dato
+from: fra
+reactivate: reaktivere
+agent_profile: Agent profil
+samplepage: eksempelside
+

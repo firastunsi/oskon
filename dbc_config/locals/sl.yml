@@ -1,0 +1,315 @@
+---
+DBC_PURPOSE_SALE: prodaja
+DBC_PURPOSE_RENT: Najem
+DBC_PURPOSE_BOTH: Prodaja in najem
+DBC_TYPE_APARTMENT: Stanovanje
+DBC_TYPE_HOUSE: House
+DBC_TYPE_LAND: Land
+DBC_TYPE_COMSPACE: Poslovni prostor
+DBC_CONDITION_NEW: New
+DBC_CONDITION_SOLD: Prodano
+DBC_CONDITION_AVAILABLE: Na voljo
+DBC_CONDITION_AUCTION: Dražba
+sign_in: Prijava
+sign_up: Sign Up
+agent_panel: Agent Panel
+admin_panel: admin Panel
+find_your_place: Find Your Place
+search_text_banner: Iskanje Address , sosedsko , mesto ali državo
+DBC_ADVANCED_SEARCH: Napredno iskanje
+recent_estates: Nedavne Estates
+DBC_AGENTS: agenti
+no_estates_found: Ni najdenih Estates
+DBC_HOME: Domov
+DBC_ABOUT: O
+DBC_CONTACT: Kontakt
+plain_search: Plain Iskanje
+ignore_this_section: Prezre ta del
+location_search: Lokacija Iskanje
+country: Država
+state_province: Zvezna država / provinca
+city: Kraj
+bedrooms: spalnice
+bathrooms: Kopalnice
+year_built: leto izgradnje
+register: register
+area: območje
+details: podrobnosti
+view_all: Poglej vse
+featured_estates: Predstavljeni Estates
+order_by: Da By
+none: Noben
+terms_and_conditions: Pravila in Confition
+reg_success_message: Vaš račun je registracija uspešna . 
+limit: Limit
+usage: uporaba
+recover: izterjati
+oops: Ups, stran ni bilo mogoče najti
+share_this: delite to
+baths: kopeli
+general_amenities: Splošni Oprema
+location_map: Zemljevid
+image_gallery: Galerija slik
+summary: Povzetek
+overview: Pregled
+address: naslov
+agent: Agent
+message: sporočilo
+DBC_PER_MONTH: na mesec
+DBC_PER_QUARTER: na četrt
+DBC_PER_YEAR: na leto
+DBC_TYPE_CONDO: Stanovanje
+DBC_TYPE_VILLA: Villa
+type_filers: Tip Filtri
+purpose_filters: namen Filtri
+email_subject: Email Predmet
+all: vsi
+DBC_DELETED: izbrisan
+agent_estates: Agent Estates
+all_agents: Vsi zastopniki
+contact_us: Pišite nam
+DBC_ACTIVE: aktivna
+radius: Radius
+featured_video: Prikazani video
+estates: Estates
+embed_video_url: Embeded Video Url
+DBC_PENDING: Dokler
+top_estates: Top Estates
+estate: Nepremičnine
+email_tracker: Email Tracker
+bulk_email: Bulk Email
+advanced_filters: napredni filtri
+purpose: namen
+result: rezultat
+agent_not_found: Agent Not Found
+payment_notification: Nahajate se dogaja , da se plačilo . 
+confirmation: potrditev
+distance: oddaljenost
+tags: Tags
+zip_code: Poštna številka
+embed_preview: Vlagati Predogled
+login: Prijava
+post_not_found: Objavi ne Najdeno
+view_more: Oglejte si več
+choose_a_package: Izberite paket
+no_package_found: Ne Paket najti
+days: dni
+posts: Prispevkov
+change: Spremeni
+subscribe: Naročite se
+home_size: Domov Velikost
+lot_size: Velikost zemljišča
+DBC_PAGES: strani
+DBC_BLOG: Blog
+DBC_NEWS: Novice
+DBC_ARTICLES: Članki
+DBC_REPORTED: poročali
+all_estates: Vse Estates
+image: slika
+condition: pogoj
+sales_price: prodajna cena
+price_per_unit: Cena na enoto
+rent_price: Najem Cena
+energy_efficiency: energetska učinkovitost
+custom_fields: Polja po meri
+view_on_map: Pogled na zemljevidu
+estate_add_status_video: Najprej ustvariti posestvo . 
+estate_add_status_gallery: Najprej ustvariti premoženje. 
+create: Ustvari
+basic_info: Osnovne informacije
+estate_brochure: Nepremičnine Brošura
+send: Pošlji
+all_email_to_agent: Vsa e-poštna sporočila zastopnika
+email_detail: Email Detail
+change_package: Spremeni paket
+bank_transfer: Bank Transfer
+contact_subject: Kontakt E-pošta
+payment_finish_title: plačilo Complete
+payment_renew_title: plačilo Complete
+payment_finish_text: Vaše plačilo je končana . 
+payment_renew_text: Vaše plačilo je končana . 
+payment_cancel_title: plačilo Prekliči
+payment_cancel_text: Vaše plačilo je odpovedan
+feature_payment_finish: Vaše plačilo je končana . 
+feature_payment_cancel: Vaše plačilo je odpovedan .
+DBC_CONDITION_RENTED: najemu
+private_owner: zasebni lastnik
+dealer: Prodajalec
+selected_package: izbrani paket
+signup_with_social_account: Prijava s socialnim računom
+password: geslo
+confirm_password: potrdite geslo
+property_price: skupna cena
+down_payment: določitvi plačila
+term_in_years: Število let
+annual_interest: Obresti na leto (% )
+installments_per_year: Obrok letno
+monthly_payment: Mesečna plačila
+mortgage_calculation: kalkulator hipotekarnih
+all_posts: Vsa delovna mesta
+no_posts: ni objav
+title: Naslov
+description: opis
+status: Status
+actions: dejanja
+action: Action
+type: tip
+type_something: tip nekaj
+content: vsebina
+featured_image: izrazit slike
+all_categories: Vse kategorije
+edit_category: Uredi kategorijo
+new_category: Nova kategorija
+parent: Parent
+edit: edit
+delete: Izbriši
+name: Name
+save: Shrani
+no_parent: noben od staršev
+edit_email_template: Uredi predlogo email
+select_template_file: Izberi predlogo datoteke
+subject: predmet
+body: telo
+available_variables: razpoložljivi spremenljivke
+select_language: Izberite jezik
+select_language_file: Izberite jezik datotek
+edit_as_new: Edit kot nova
+language: language
+add_another: Dodaj Drug
+export_to_file: Izvoz v datoteko
+import_from_file: Uvoz iz datoteke
+auto_translator: Auto prevajalec
+from_lang: Lang
+target_lang_full_name: Ciljna lang polno ime
+target_lang_short_name: Ciljna lang kratko ime
+create_new_package: Ustvari nov paket
+price: Cena
+maximum_post_by_user: Največje število objav po uporabniku
+expirtion_time: Čas Expirtion (dnevi )
+create_package: Ustvari paket
+edit_package: Uredi paket
+update_package: paket posodobitev
+add_packages: Dodaj paketov
+all_packages: Vsi paketi
+no_packages: ni paketi
+options: možnosti
+all_pages: Vse strani
+no_pages: ni strani
+manage_menu: upravljanje Meni
+menu_title: Meni Naslov
+menu_alias: Meni alias
+show_in_menu: Prikaži v meniju
+page_layout: postavitev strani
+content_from: vsebine
+url: url
+seo_options: možnosti SEO
+meta_description: Meta opis
+key_words: ključne besede
+crawl_after: Crawl po ( dni )
+all_plugins: Vsi vtičniki
+no_plugins: ni vtičniki
+name_and_version: Ime in različica
+change_password: Spremeni geslo
+current_password: trenutno geslo
+new_password: novo geslo
+retype_password: Ponovite geslo
+password_reset_info_msg: Prosimo, da najprej nastavite novo geslo
+edit_profile: Urejanje profila
+profile_picture: Profile Picture
+username: Uporabniško ime
+email: Email
+first_name: First Name
+last_name: Priimek
+gender: Spol
+phone: Telefon
+company_name: Ime podjetja
+about_me: O meni
+facebook_account: Facebook računa
+twitter_account: Twitter račun
+linkedin_account: linkedIn račun
+gp_account: račun Google+
+account_msg: 'Vnesite povezavo , brez http : //'
+web_email_settings: Spletna Email Settings
+contact_email: Kontakt E-pošta
+webadmin_name: WebAdmin Name
+webadmin_email: WebAdmin Email
+update: Update
+upload: Pošiljanje
+site_settings: Nastavitve mesta
+site_title: Naslov stran
+footer_text: Noga Besedilo
+site_logo: Site Logo
+site_language: Izberi jezik spletišča
+site_text_direction: Site Besedilo Direction
+per_page: Označeno Per Page
+default_page_layout: Privzeto Page Layout
+tracking_code: Tracking Code
+smtp_email_settings: SMTP Nastavitve e-pošte
+smtp_email: SMTP Email
+smtp_host: SMTP Host
+smtp_port: SMTP Port
+smtp_timeout: SMTP Timeout
+smtp_user: SMTP Uporabnik
+smtp_password: SMTP geslo
+generate_site_map: Ustvarjajo Zemljevid strani
+sitemap_info_msg: Izberite ki želite biti vključeni v kazalo XML . 
+pages: strani
+blog_posts: Blog Prispevkov
+view_xml: Poglej XML
+create_xml: Ustvari XML
+manage_backups: upravljanje varnostnega kopiranja
+create_sql_backup: Ustvari SQL Backup
+create_image_backup: Ustvari Image Backup
+restore: Obnovitev
+download: Download
+dashboard: Nadzorna plošča
+overview_stats_more: Pregled , statistika in še več
+visit_site: Obiščite spletno stran
+logout: Odjava
+themes: Teme
+real_estate: Nepremičnine
+locations: lokacije
+amenities: Vsebine
+distance_fields: Oddaljenost Fields
+paypal_settings: Nastavitve Paypal
+payment_history: plačilo Zgodovina
+profile: profil
+packages: paketi
+agents: agenti
+widgets: widgets
+all_widgets: Vse Widgets
+widget_positions: Widget Pozicije
+blog_news_article: Blog / Novice / Article
+new_post: New Post
+pages_and_menu: Strani & Menu
+new_page: New Page
+menu: Meni
+system: sistem
+manage_languages: upravljanje jeziki
+auto_translate: Auto Translate
+edit_email_text: Uredi Email Besedilo
+admin_settings: Nastavitve admin
+sitemap: Zemljevid strani
+activate: Aktivirajte
+active_theme: aktivno Tema
+available_themes: razpoložljivi Teme
+all_users: Vsi uporabniki
+create_user: Ustvari uporabnika
+export_user_email: Izvoz uporabnika E-pošta (.csv )
+profile_info: Profile Info
+ban_forever: Ban Forever
+edit_page: edit Page
+create_widget: Ustvarite Widget
+widget_name: Widget Name
+activate_deactivate: Aktiviranje / deaktiviranje
+show: Prikaži
+available_widgets: Na voljo Widgets
+active_widgets: aktivne Widgets
+delete_warning: Ste prepričani, da želite to izbrisati.
+confirm_yes: Da Izbriši
+confirm_no: Prekliči
+date: Datum
+from: iz
+reactivate: aktivirati
+agent_profile: Agent profile
+samplepage: vzorec stran

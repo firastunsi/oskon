@@ -1,0 +1,9 @@
+@media (max-width:810px) {
+    .navbar-nav>li{
+        float: none;
+    }
+    .container>.navbar-header, .container-fluid>.navbar-header, .container>.navbar-collapse, .container-fluid>.navbar-collapse{
+        margin-left: -16px;
+        margin-right:-16px;
+    }
+}

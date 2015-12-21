@@ -1,0 +1,78 @@
+#themeswitcher {
+    position: fixed;
+    top: 15px;
+    right: 0;
+    padding: 5px 10px;
+    border: 1px solid #d1d1d1;
+    background-color: #fff;
+    z-index: 999;
+}
+
+#themeswitcher * {
+    -moz-box-sizing: content-box;
+    -webkit-box-sizing: content-box;
+    box-sizing: content-box;
+}
+
+#themeswitcher #minicolor {
+    width: 0;
+    height: 0;
+    margin: 0;
+    border: 0; padding: 0;
+    cursor: pointer;
+}
+
+#exportcss {
+    display: block;
+    clear: both;
+}
+
+#themeswitcher .colorbox {
+    cursor: pointer;
+    height: 16px;
+    width: 16px;
+    margin: 0 0 5px auto;
+    float: left;
+    border: 2px solid transparent;
+}
+
+#themeswitcher .colorbox.selected {
+    border-color: #fff;
+}
+
+/* minicolor plugin */
+#themeswitcher .minicolors-theme-default .minicolors-swatch {
+    top: 0; left: 0;
+    border: 2px solid #222;
+    cursor: pointer;
+    height: 16px; width: 16px;
+}
+
+#themeswitcher .minicolors {
+    display: block;
+    cursor: pointer;
+    height: 16px; width: 16px;
+    margin: 0 5px 15px auto;    
+    float: left;
+    position: relative;
+}
+
+#themeswitcher .minicolors:after {
+    content: "";
+    position: absolute;
+    bottom: -2px; right: -2px;
+    width: 4px; height: 4px;
+    background-color: #000;
+    border-top: 1px solid #fff;
+    border-left: 1px solid #fff;
+}
+
+
+/* modal css exported */
+textarea#exportcss-text {
+    height: 300px;
+    min-width: 515px;
+    resize: none;
+    cursor: text;
+    background-color: #fff; /* force a disabled color */
+}

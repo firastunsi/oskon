@@ -1,0 +1,249 @@
+//
+// Custom theme color stylesheet
+// --------------------------------------------------
+
+@themeColor:                         #50a846;
+
+
+@link-color:                         @themeColor;
+@link-hover-color:                   darken(@link-color, 15%);
+@btn-global-hilight:                 #555;
+
+.breadcrumb {
+  border-left-color: @link-color;
+}
+
+.btn-link {
+  color: @link-color;
+  &:hover,
+  &:focus {
+    color: @link-hover-color;
+  }
+}
+
+.navbar-default,
+.navbar-inverse {
+
+  .navbar-nav > li > a {
+    &:hover,
+    &:focus {
+      border-bottom-color: @link-color;
+    }
+  }
+
+  .navbar-nav > .active > a {
+    &,
+    &:hover,
+    &:focus {
+      border-bottom-color: @link-color;
+    }
+  }
+}
+
+
+.navbar-inverse {
+  .dropdown-menu {
+    > li > a {
+      &:hover, &:focus {
+        color: @link-color;
+      }
+    }
+  }
+}
+
+.nav {
+
+  > li {
+    > a {
+      &:hover,
+      &:focus {
+        color: @link-color;
+      }
+    }
+  }
+
+  // Open dropdowns
+  &.open > a {
+    &,
+    &:hover,
+    &:focus {
+      background-color: @link-color;
+      border-color: @link-color;
+    }
+  }
+}
+
+.nav-tabs.nav-stacked > li > a:hover,
+.nav-tabs.nav-stacked > li > a:focus,
+.nav-tabs.nav-stacked > .active > a,
+.nav-tabs.nav-stacked > .active > a:hover,
+.nav-tabs.nav-stacked > .active > a:focus {
+  border-left-color: @link-hover-color;
+  background-color: @link-color;
+}
+
+.nav-list > .active > a,
+.nav-list > .active > a:hover,
+.nav-list > .active > a:focus {
+  background-color: @link-color;
+}
+
+a {
+  color: @link-color;
+}
+a:hover,
+a:focus {
+  color: @link-hover-color;
+}
+
+a.thumbnail:hover,
+a.thumbnail:focus {
+  border-color: @link-color;
+}
+
+.tt-suggestion.tt-is-under-cursor {
+  color: @link-color;
+}
+
+.typeahead:focus {
+  border-color: @link-color;
+}
+
+.form-control {
+  // Customize the `:focus` state to imitate native WebKit styles.
+  &:focus {
+    border-color: @link-color;
+  }
+}
+
+.dropdown-menu > .active > a {
+  &,
+  &:hover,
+  &:focus {
+    color: @link-color;
+  }
+}
+.dropdown-menu > li > a {
+  &:hover,
+  &:focus {
+    color: @link-color;
+  }
+}
+
+.pager {
+  li {
+    > a:hover,
+    > a:focus {
+      background-color: @link-color;
+    }
+  }
+}
+
+.pagination {
+
+  > li > a:hover,
+  > li > a:focus,
+  > .active > a,
+  > .active > span {
+    background-color: @link-color;
+  }
+  > .active > a,
+  > .active > span {
+    &,
+    &:hover,
+    &:focus {
+      background-color: @link-color;
+    }
+  }
+}
+
+
+a.list-group-item.active > .badge,
+.nav-pills > .active > a > .badge {
+  color: @link-color;
+}
+
+
+blockquote {
+  border-left-color: @link-color;
+
+  &.pull-right {
+    border-right-color: @link-color;
+  }
+}
+
+.text-primary { color: @link-color; }
+
+
+.nav-pills {
+  > li {
+    // Active state
+    &.active > a {
+      &,
+      &:hover,
+      &:focus {
+        background-color: @link-color;
+      }
+    }
+  }
+}
+
+a.list-group-item {
+  // Active class on item itself, not parent
+  &.active {
+    background-color: @link-color;
+    border-color: @link-color;
+    .list-group-item-text {
+      color: lighten(@link-color, 40%);
+    }
+  }
+}
+
+.btn-primary {
+  .btn-pseudo-states(#fff; @link-color; transparent);
+}
+
+
+// Contextual variations
+.panel-primary {
+  .panel-heading {
+    background-color: @link-color;
+    border-color: @link-color;
+  }
+}
+
+
+
+// Button pseudo states
+// -------------------------
+// Easily pump out default styles, as well as :hover, :focus, :active,
+// and disabled options for all buttons
+.btn-pseudo-states(@color; @background; @border) {
+  color: @color;
+  background-color: @background;
+  border-color: @border;
+
+  &:hover,
+  &:focus,
+  &:active,
+  &.active {
+    color: #fff;
+    background-color: @btn-global-hilight;
+        //border-color: darken(@border, 12%);
+  }
+
+  &.disabled,
+  &[disabled],
+  fieldset[disabled] & {
+    &,
+    &:hover,
+    &:focus,
+    &:active,
+    &.active {
+      background-color: @background;
+          //border-color: @border
+    }
+  }
+}
+//Widget Agent
+

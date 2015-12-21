@@ -1,0 +1,315 @@
+---
+DBC_PURPOSE_SALE: فروخت
+DBC_PURPOSE_RENT: کرایہ
+DBC_PURPOSE_BOTH: فروخت اور کرایہ پر دستیاب
+DBC_TYPE_APARTMENT: اپارٹمنٹ
+DBC_TYPE_HOUSE: ہاؤس
+DBC_TYPE_LAND: زمین
+DBC_TYPE_COMSPACE: کمرشل
+DBC_CONDITION_NEW: نئی
+DBC_CONDITION_SOLD: بیچ دیا
+DBC_CONDITION_AVAILABLE: دستیاب
+DBC_CONDITION_AUCTION: نیلامی
+sign_in: میں سائن ان کریں
+sign_up: سائن اپ کریں
+agent_panel: ایجنٹ کے پینل
+admin_panel: ایڈمن پینل
+find_your_place: آپ کی جگہ تلاش کریں
+search_text_banner: ایڈریس ، پڑوس ، شہر یا ریاست کے لئے تلاش کریں
+DBC_ADVANCED_SEARCH: اعلی درجے کی تلاش
+recent_estates: حالیہ اسٹیٹس
+DBC_AGENTS: ایجنٹوں
+no_estates_found: کوئی اسٹیٹس ملا
+DBC_HOME: ہوم
+DBC_ABOUT: کے بارے میں
+DBC_CONTACT: کانٹیکٹ
+plain_search: سادہ تلاش کریں
+ignore_this_section: اس سیکشن کو نظرانداز کریں
+location_search: مقام کی تلاش
+country: ملک کو
+state_province: ریاست / صوبہ
+city: شہر
+bedrooms: بیڈروم
+bathrooms: باتھ رومز
+year_built: بلٹ سال
+register: شمولیت اختیار کریں
+area: علاقے
+details: تفصیلات دیکھیں
+view_all: سب کچھ دیکھیں
+featured_estates: نمایاں اسٹیٹس
+order_by: کی طرف سے آرڈر
+none: کوئی بھی نہیں
+terms_and_conditions: شرائط و Confition
+reg_success_message: آپ کے اکاؤنٹ رجسٹریشن کامیاب ہے . 
+limit: کی حد
+usage: ورتن
+recover: بازیافت
+oops: افوہ ، صفحہ نہیں ملا
+share_this: یہ اشتراک کریں
+baths: حمام
+general_amenities: جنرل سہولیات
+location_map: مقام کا نقشہ
+image_gallery: تصویر گیلری، نگارخانہ
+summary: کاروائی کا خلاصہ
+overview: مجموعی جائزہ
+address: ایڈریس
+agent: کے ایجنٹ
+message: پیغام
+DBC_PER_MONTH: فی مہینہ
+DBC_PER_QUARTER: سہ ماہی کے مطابق
+DBC_PER_YEAR: فی سال
+DBC_TYPE_CONDO: کونڈو
+DBC_TYPE_VILLA: ولا
+type_filers: قسم فلٹرز
+purpose_filters: مقصد فلٹرز
+email_subject: ای میل کے موضوع
+all: تمام
+DBC_DELETED: خارج کر دیا
+agent_estates: ایجنٹ کے اسٹیٹس
+all_agents: تمام ایجنٹوں
+contact_us: ہم سے رابطہ کریں
+DBC_ACTIVE: ایکٹو
+radius: رداس
+featured_video: متصف ویڈیو
+estates: اسٹیٹس
+embed_video_url: کے Embeded ویڈیو URL
+DBC_PENDING: زیر التوا
+top_estates: اوپر اسٹیٹس
+estate: اسٹیٹ
+email_tracker: ای میل کے ٹریکر
+bulk_email: بلک ای میل
+advanced_filters: اعلی درجے فلٹر
+purpose: مقصد
+result: نتیجہ
+agent_not_found: کے ایجنٹ نہیں ملا
+payment_notification: اگر آپ ایک ادائیگی کرنے کے لئے جا رہے ہیں . 
+confirmation: تصدیقی
+distance: فاصلہ
+tags: کی ٹیگز
+zip_code: زپ کوڈ
+embed_preview: سرایت کرنے کا مشاہدہ کریں
+login: لاگ ان
+post_not_found: پوسٹ ملا نہیں
+view_more: مزید دیکھیں
+choose_a_package: ایک پیکج کا انتخاب
+no_package_found: ابھی تک کوئی پیکیج
+days: دنوں
+posts: مراسلات
+change: تبدیلی
+subscribe: سبسکرائب کریں
+home_size: ہوم سائز
+lot_size: لاٹ سائز
+DBC_PAGES: صفحات
+DBC_BLOG: بلاگ
+DBC_NEWS: نیوز
+DBC_ARTICLES: مضامین
+DBC_REPORTED: خبر کے مطابق
+all_estates: تمام اسٹیٹس
+image: تصویری
+condition: شرط
+sales_price: سیلز قیمت
+price_per_unit: فی یونٹ قیمت
+rent_price: کرایہ قیمت
+energy_efficiency: توانائی کی بچت کے
+custom_fields: مخصوص قطعات
+view_on_map: نقشے پر دیکھیں
+estate_add_status_video: پہلی اسٹیٹ تخلیق . 
+estate_add_status_gallery: سب سے پہلے کی ملکیت بنا . 
+create: بنائیں
+basic_info: بنیادی معلومات
+estate_brochure: اسٹیٹ بروشر
+send: ارسال
+all_email_to_agent: ایجنٹوں کی تمام ای میلز
+email_detail: ای میل کے تفصیل
+change_package: تبدیلی پیکیج
+bank_transfer: بینک ٹرانسفر
+contact_subject: رابطہ ای میل
+payment_finish_title: ادائیگی مکمل
+payment_renew_title: ادائیگی مکمل
+payment_finish_text: آپ کی ادائیگی مکمل ہو گیا ہے . 
+payment_renew_text: آپ کی ادائیگی مکمل ہو گیا ہے . 
+payment_cancel_title: ادائیگی کے منسوخ
+payment_cancel_text: آپ کی ادائیگی منسوخ کر دیا ہے
+feature_payment_finish: آپ کی ادائیگی مکمل ہو گیا ہے . 
+feature_payment_cancel: آپ کی ادائیگی منسوخ کر دیا ہے .
+DBC_CONDITION_RENTED: کرائے پر
+private_owner: نجی مالک
+dealer: ڈیلر
+selected_package: منتخب پیکج
+signup_with_social_account: سماجی اکاؤنٹ کے ساتھ سائن اپ
+password: پاس ورڈ
+confirm_password: پاس ورڈ کی توثیق
+property_price: مجموعی قیمت
+down_payment: نیچے کی ادائیگی
+term_in_years: سال کا کوئی
+annual_interest: سال فی سود (٪)
+installments_per_year: قسط فی سال
+monthly_payment: ماہانہ ادائیگی
+mortgage_calculation: رہن کیلکولیٹر
+all_posts: تمام پوسٹس
+no_posts: کوئی تحریر نہیں
+title: عنوان
+description: تفصیل
+status: رتبہ
+actions: اعمال
+action: ایکشن
+type: قسم
+type_something: کچھ ٹائپ
+content: کونٹینٹ
+featured_image: نمایاں تصویری
+all_categories: تمام زمرے
+edit_category: ترمیم کے زمرے
+new_category: نئی قسم
+parent: پیرنٹ
+edit: میں ترمیم کریں
+delete: کو حذف کریں
+name: نام
+save: محفوظ کریں
+no_parent: کوئی والدین
+edit_email_template: میں ترمیم کریں ای میل سانچے
+select_template_file: منتخب ٹیمپلیٹ فائل
+subject: مشروط
+body: جسم
+available_variables: دستیاب متغیر
+select_language: زبان منتخب کریں
+select_language_file: زبان منتخب فائل
+edit_as_new: نئے طور پر میں ترمیم کریں
+language: زبان
+add_another: ایک اور کا اضافہ کریں
+export_to_file: ایکسپورٹ دائر کرنے
+import_from_file: فائل سے درآمد
+auto_translator: آٹو مترجم
+from_lang: لینگ سے
+target_lang_full_name: کے ھدف لینگ پورا نام
+target_lang_short_name: کے ھدف لینگ مختصر نام
+create_new_package: نیا پیکیج بنائیں
+price: قیمت سے
+maximum_post_by_user: صارف کی طرف سے زیادہ سے زیادہ خطوط
+expirtion_time: Expirtion وقت (دن)
+create_package: پیکیج بنائیں
+edit_package: ترمیم پیکج
+update_package: اپ ڈیٹ پیکج
+add_packages: پیکجوں کے میں شامل کریں
+all_packages: تمام پیکجوں کے
+no_packages: کوئی پیکجوں کے
+options: اختیارات
+all_pages: تمام صفحات
+no_pages: کوئی صفحات
+manage_menu: مینو انتظام کریں
+menu_title: مینو عنوان
+menu_alias: مینو عرف
+show_in_menu: مینو میں دکھائیں
+page_layout: صفحہ ترتیب
+content_from: سے مواد
+url: یو آر ایل
+seo_options: SEO کے اختیارات
+meta_description: میٹا وضاحت
+key_words: کلیدی الفاظ
+crawl_after: کرال (دن ) کے بعد
+all_plugins: تمام پلگ ان
+no_plugins: کوئی پلگ ان
+name_and_version: نام اور ورژن
+change_password: پاس ورڈ تبدیل کریں
+current_password: موجودہ پاس ورڈ
+new_password: نئے پاس ورڈ
+retype_password: پاس ورڈ دوبارہ ٹائپ
+password_reset_info_msg: سب سے پہلے اپنا نیا پاس ورڈ مقرر کریں
+edit_profile: پروفائل میں ترمیم کریں
+profile_picture: پروفائل تصویر
+username: کا صارف کا نام
+email: دوستوں کوارسال کریں
+first_name: پہلا نام
+last_name: آخری نام
+gender: صنفی
+phone: فون
+company_name: کمپنی کا نام
+about_me: میرے بارے میں
+facebook_account: فیس بک اکاؤنٹ
+twitter_account: ٹویٹر اکاؤنٹ
+linkedin_account: لنکڈ اکاؤنٹ
+gp_account: Google+ اکاؤنٹ
+account_msg: 'HTTP کے بغیر ، لنک درج کریں: //'
+web_email_settings: ویب ای میل کی ترتیبات
+contact_email: رابطہ ای میل
+webadmin_name: Webadmin نام
+webadmin_email: Webadmin کوارسال کریں
+update: اپ ڈیٹ کریں
+upload: اپ لوڈ کریں
+site_settings: سائٹ کی ترتیبات
+site_title: ویب سائٹ کا عنوان
+footer_text: فوٹر متن
+site_logo: ویب سائٹ کا لوگو
+site_language: سائٹ کی زبان
+site_text_direction: سائٹ کے متن کی سمت
+per_page: صفحہ بندی فی صفحہ
+default_page_layout: صفحہ لے آؤٹ پہلے سے طے شدہ
+tracking_code: باخبر رہنے کے کوڈ
+smtp_email_settings: SMTP ای میل کی ترتیبات
+smtp_email: SMTP ای میل
+smtp_host: SMTP ہوسٹ
+smtp_port: SMTP پورٹ
+smtp_timeout: SMTP ٹائم آؤٹ
+smtp_user: SMTP صارف
+smtp_password: SMTP پاس ورڈ
+generate_site_map: ویب سائٹ کا نقشہ کو پیدا
+sitemap_info_msg: اگر آپ سائٹ کا نقشہ XML پر شامل کرنا چاہتے ہیں جس کا انتخاب کریں . 
+pages: صفحات
+blog_posts: بلاگ مراسلات
+view_xml: مآخذ XML
+create_xml: XML بنائیں
+manage_backups: بیک اپ کا انتظام کریں
+create_sql_backup: SQL بیک اپ بنائیں
+create_image_backup: تصویر کے بیک اپ بنائیں
+restore: بحال
+download: ڈاؤن لوڈ، اتارنا
+dashboard: ڈیش بورڈ
+overview_stats_more: مجموعی جائزہ ، اعدادوشمار اور مزید
+visit_site: آمد سائٹ
+logout: لاگ آؤٹ کریں
+themes: موضوعات
+real_estate: ریئل اسٹیٹ
+locations: مقامات
+amenities: سہولیات
+distance_fields: فاصلہ قطعات
+paypal_settings: پے پال کی ترتیبات
+payment_history: ادائیگی کی تاریخ
+profile: پروفائل
+packages: پیکجوں کے
+agents: ایجنٹوں
+widgets: وگیٹس
+all_widgets: تمام وجیٹس
+widget_positions: ویجیٹ پوزیشن
+blog_news_article: بلاگ / نیوز / آرٹیکل
+new_post: نئی پوسٹ
+pages_and_menu: صفحات اور مینو
+new_page: نیا صفحہ
+menu: مینو
+system: سسٹم
+manage_languages: زبانیں انتظام کریں
+auto_translate: آٹو ترجمہ کریں
+edit_email_text: ای میل کی تدوین متن
+admin_settings: منتظم کی ترتیبات
+sitemap: ویب سائٹ کا نقشہ
+activate: چالو کریں
+active_theme: فعال تھیم
+available_themes: دستیاب موضوعات
+all_users: تمام صارفین
+create_user: صارف بنائیں
+export_user_email: ایکسپورٹ یوزر ای میل ( csv) کے
+profile_info: پروفائل کی معلومات
+ban_forever: ہمیشہ کے لیے پابندی عائد
+edit_page: ترمیم صفحہ
+create_widget: ویجیٹ بنائیں
+widget_name: پاس وجٹس نام
+activate_deactivate: چالو / ڈی چالو
+show: دکھائیں
+available_widgets: دستیاب وگیٹس
+active_widgets: فعال وگیٹس
+delete_warning: کیا آپ کو یقین خارج کروں چاہتے ہیں .
+confirm_yes: ہاں حذف کریں
+confirm_no: منسوخ کریں
+date: تاریخ کی
+from: سے
+reactivate: دوبارہ چالو
+agent_profile: کے ایجنٹ پروفائل
+samplepage: نمونہ صفحہ

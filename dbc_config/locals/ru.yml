@@ -1,0 +1,315 @@
+---
+DBC_PURPOSE_SALE: продажа
+DBC_PURPOSE_RENT: аренда
+DBC_PURPOSE_BOTH: Продажа и аренда
+DBC_TYPE_APARTMENT: квартира
+DBC_TYPE_HOUSE: дом
+DBC_TYPE_LAND: земля
+DBC_TYPE_COMSPACE: торговые площади
+DBC_CONDITION_NEW: новый
+DBC_CONDITION_SOLD: продан
+DBC_CONDITION_AVAILABLE: доступный
+DBC_CONDITION_AUCTION: аукцион
+sign_in: Войти В Систему
+sign_up: Зарегистрироваться
+agent_panel: Панель Agent
+admin_panel: админ-панели
+find_your_place: Найти свое место
+search_text_banner: Поиск адреса, соседства , города или государства
+DBC_ADVANCED_SEARCH: Расширенный поиск
+recent_estates: Последние недвижимости
+DBC_AGENTS: Агенты
+no_estates_found: Нет Estates не найдены
+DBC_HOME: домой
+DBC_ABOUT: о
+DBC_CONTACT: контакт
+plain_search: Обычная Поиск
+ignore_this_section: Пропустите этот раздел
+location_search: Поиск по местоположению
+country: страна
+state_province: Штат / провинция
+city: город
+bedrooms: спальни
+bathrooms: ванные комнаты
+year_built: Год постройки
+register: Регистрация
+area: площадь
+details: подробности
+view_all: Просмотреть все
+featured_estates: Популярные недвижимости
+order_by: Сортировать по
+none: Ни один
+terms_and_conditions: Условия и Confition
+reg_success_message: Ваш аккаунт Регистрация успешна . 
+limit: предел
+usage: использование
+recover: восстанавливать
+oops: К сожалению , страница не найдена
+share_this: Поделиться этой
+baths: баня
+general_amenities: Общие принадлежности
+location_map: Схема проезда
+image_gallery: Фотогалерея
+summary: резюме
+overview: обзор
+address: адрес
+agent: агент
+message: сообщение
+DBC_PER_MONTH: в месяц
+DBC_PER_QUARTER: за квартал
+DBC_PER_YEAR: в год
+DBC_TYPE_CONDO: квартира
+DBC_TYPE_VILLA: вилла
+type_filers: Тип Фильтры
+purpose_filters: Цель Фильтры
+email_subject: Тема электронного письма
+all: все
+DBC_DELETED: удаленный
+agent_estates: Агент недвижимости
+all_agents: Все агенты
+contact_us: Связаться С Нами
+DBC_ACTIVE: активный
+radius: радиус
+featured_video: Лучшее видео
+estates: Estates
+embed_video_url: Embeded Ссылка на видео
+DBC_PENDING: до
+top_estates: Топ недвижимости
+estate: имущество
+email_tracker: Email Tracker
+bulk_email: Bulk Email
+advanced_filters: Дополнительные фильтры
+purpose: цель
+result: результат
+agent_not_found: Агент не найдена
+payment_notification: Вы собираетесь совершить платеж . 
+confirmation: подтверждение
+distance: расстояние
+tags: Ключевые слова
+zip_code: Почтовый Индекс
+embed_preview: Код Предпросмотр
+login: Войти
+post_not_found: Сообщение не найдено
+view_more: Просмотреть больше
+choose_a_package: Выберите пакет
+no_package_found: Не пакет не найден
+days: дней
+posts: Сообщений
+change: изменение
+subscribe: подписываться
+home_size: Главная Размер
+lot_size: Размер участка
+DBC_PAGES: страницы
+DBC_BLOG: Блог
+DBC_NEWS: новости
+DBC_ARTICLES: Статьи
+DBC_REPORTED: Сообщается,
+all_estates: Все недвижимости
+image: изображение
+condition: состояние
+sales_price: Цена продажи
+price_per_unit: Цена за шт
+rent_price: стоимость аренды
+energy_efficiency: Энергоэффективность
+custom_fields: Настраиваемые поля
+view_on_map: Посмотреть на карте
+estate_add_status_video: Сначала создайте недвижимости . 
+estate_add_status_gallery: Сначала создайте свойство. 
+create: создать
+basic_info: Базовая информация
+estate_brochure: Брошюра Недвижимость
+send: послать
+all_email_to_agent: Все электронные письма агентов
+email_detail: Email Деталь
+change_package: Изменить пакет
+bank_transfer: Банковский перевод
+contact_subject: Контактный адрес электронной почты
+payment_finish_title: Оплата Полная
+payment_renew_title: Оплата Полная
+payment_finish_text: Ваш платеж будет завершена. 
+payment_renew_text: Ваш платеж будет завершена. 
+payment_cancel_title: Оплата Отменить
+payment_cancel_text: Ваш платеж будет отменен
+feature_payment_finish: Ваш платеж будет завершена. 
+feature_payment_cancel: Ваш платеж будет отменен.
+DBC_CONDITION_RENTED: арендованный
+private_owner: частный владелец
+dealer: дилер
+selected_package: Выбранный пакет
+signup_with_social_account: Регистрация с социальной счет
+password: пароль
+confirm_password: Подтвердите Пароль
+property_price: Общая стоимость
+down_payment: Авансовый Платеж
+term_in_years: Нет временных лет
+annual_interest: Интерес в год ( %)
+installments_per_year: Рассрочка в год
+monthly_payment: месячная оплата
+mortgage_calculation: Ипотечный калькулятор
+all_posts: Все сообщения
+no_posts: Сообщений Нет
+title: название
+description: описание
+status: статус
+actions: действия
+action: действие
+type: тип
+type_something: Введите что-то
+content: содержание
+featured_image: Популярные изображения
+all_categories: Все категории
+edit_category: Редактировать категория
+new_category: Новая категория
+parent: родитель
+edit: редактировать
+delete: удалять
+name: имя
+save: Сохранить
+no_parent: Нет родителей
+edit_email_template: Редактировать шаблон электронной почты
+select_template_file: Выберите файл шаблона
+subject: тема
+body: тело
+available_variables: Доступные переменные
+select_language: Выберите язык
+select_language_file: Выберите файл языка
+edit_as_new: Редактировать как новое
+language: язык
+add_another: Добавить еще
+export_to_file: Экспорт в файл
+import_from_file: Импорт из файла
+auto_translator: Авто переводчик
+from_lang: От языке
+target_lang_full_name: Целевая Lang полное имя
+target_lang_short_name: Целевая Lang Краткое наименование
+create_new_package: Создать новый пакет
+price: цена
+maximum_post_by_user: Максимум сообщений пользователя
+expirtion_time: Время Expirtion ( дней)
+create_package: Create Package
+edit_package: Редактировать пакет
+update_package: пакет обновления
+add_packages: Добавление пакетов
+all_packages: Все пакеты
+no_packages: Нет пакеты
+options: опции
+all_pages: Все страницы
+no_pages: Нет страницы
+manage_menu: Управление меню
+menu_title: Название меню
+menu_alias: Меню псевдоним
+show_in_menu: Показать в меню
+page_layout: макет страницы
+content_from: Содержание из
+url: Url
+seo_options: варианты SEO
+meta_description: Мета описание
+key_words: Ключевые слова
+crawl_after: Сканирование после ( дней )
+all_plugins: Все плагины
+no_plugins: Нет плагины
+name_and_version: Название и версия
+change_password: сменить пароль
+current_password: Текущий пароль
+new_password: Новый пароль
+retype_password: Введите пароль еще раз
+password_reset_info_msg: Пожалуйста, первый набор новый пароль
+edit_profile: Редактировать профиль
+profile_picture: Профиль фото
+username: Имя пользователя
+email: Email
+first_name: Имя
+last_name: фамилия
+gender: пол
+phone: телефон
+company_name: Название Компании
+about_me: Обо Мне
+facebook_account: счет facebook
+twitter_account: Твиттере
+linkedin_account: счет Linkedin
+gp_account: счетом Google+
+account_msg: 'Пожалуйста, введите ссылку , без HTTP: //'
+web_email_settings: Настройки почте через веб-
+contact_email: Контактный адрес электронной почты
+webadmin_name: Имя Webadmin
+webadmin_email: Webadmin Email
+update: обновление
+upload: Загрузить
+site_settings: Настройки сайта
+site_title: Название сайта
+footer_text: Сноска
+site_logo: Логотип сайта
+site_language: Язык сайта
+site_text_direction: Сайт Направление текста
+per_page: Разбивка на страницу
+default_page_layout: По умолчанию Макет страницы
+tracking_code: Код отслеживания
+smtp_email_settings: SMTP Настройки электронной почты
+smtp_email: SMTP Email
+smtp_host: SMTP хост
+smtp_port: Порт SMTP
+smtp_timeout: SMTP Тайм-аут
+smtp_user: SMTP Пользователь
+smtp_password: Пароль SMTP
+generate_site_map: Создать Карта сайта
+sitemap_info_msg: Пожалуйста, выберите которой вы хотите быть включены в карта сайта XML. 
+pages: страницы
+blog_posts: Сообщения в блоге
+view_xml: Посмотреть XML
+create_xml: Создать XML
+manage_backups: управление копированием
+create_sql_backup: Создать SQL резервное копирование
+create_image_backup: Создать резервную копию изображения
+restore: восстановление
+download: скачать
+dashboard: приборная панель
+overview_stats_more: Обзор , Статистика и многое другое
+visit_site: Посетите сайт
+logout: Выход
+themes: Темы
+real_estate: недвижимость
+locations: Местоположение
+amenities: Удобства
+distance_fields: Расстояние Поля
+paypal_settings: Настройки Paypal
+payment_history: История платежей
+profile: профиль
+packages: пакеты
+agents: Агенты
+widgets: Виджеты
+all_widgets: Все Виджеты
+widget_positions: Виджет Позиции
+blog_news_article: Блог / Новости / Статья
+new_post: Новое сообщение
+pages_and_menu: Страницы и меню
+new_page: Новая страница
+menu: меню
+system: система
+manage_languages: Управление Языки
+auto_translate: Авто Перевести
+edit_email_text: Редактировать текст сообщения электронной почты
+admin_settings: Параметры администратора
+sitemap: Карта сайта
+activate: активировать
+active_theme: Активная тема
+available_themes: Доступные темы
+all_users: Все пользователи
+create_user: Создать пользователя
+export_user_email: Письма Экспорт пользователей ( CSV)
+profile_info: Профиль пользователя
+ban_forever: Запрет Навсегда
+edit_page: Редактировать страницу
+create_widget: Создать виджет
+widget_name: Виджет Имя
+activate_deactivate: Включение / деактивировать
+show: шоу
+available_widgets: Доступные Виджеты
+active_widgets: Активные Виджеты
+delete_warning: Вы уверены, что хотите сделать удалить.
+confirm_yes: Да Удаление
+confirm_no: отменить
+date: дата
+from: от
+reactivate: реактивировать
+agent_profile: профиль агента
+samplepage: пример страницы

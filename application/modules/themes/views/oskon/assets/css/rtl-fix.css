@@ -1,0 +1,429 @@
+.caption .rtl-left{
+	float: left !important;
+}
+.caption .rtl-right{
+	float: right !important;
+}
+.input-group .form-control:last-child, .input-group-addon:last-child, .input-group-btn:last-child > .btn, .input-group-btn:last-child > .btn-group > .btn, .input-group-btn:last-child > .dropdown-toggle, .input-group-btn:first-child > .btn:not(:first-child), .input-group-btn:first-child > .btn-group:not(:first-child) > .btn
+{
+border-bottom-left-radius:4px !important;
+border-top-left-radius:4px !important;	
+border-bottom-right-radius:0px !important;
+border-top-right-radius:0px !important;	
+
+}
+#search_input{
+border-bottom-right-radius:4px !important;
+border-top-right-radius:4px !important;	
+border-bottom-left-radius:4px !important;
+border-top-left-radius:4px !important;	
+line-height: 33px;
+
+}
+.search-divider:before{
+	margin-right: -50% !important;
+}
+.view-more:before{
+	margin-right: -50% !important;
+}
+.owl-carousel .owl-item{
+	float: right !important;
+}
+.nav{
+	margin-right: 0px !important;
+	padding-right: 0px !important;
+}
+.follow-me-icons a{
+	float: right;
+}
+.property-amenities ul li.checked{
+	background-image: none;
+        padding-left:0px;
+        padding-right: 30px;
+}
+body {
+    font-family: "Droid Arabic Kufi" !important;
+}
+.OS_icon_size {
+    font-size: 17px !important;
+    margin-left: 5px;
+}
+.sel_map{
+    float: left;
+    margin-right:0px;
+    margin-left: 10px;
+}
+.img-amenities{
+    width:16px;
+    margin-right:0px;
+    margin-left: 5px;
+}
+.container>.navbar-header, .container-fluid>.navbar-header, .container>.navbar-collapse, .container-fluid>.navbar-collapse {
+    margin-right: 0;
+    margin-left: 0;
+}
+.navbar-nav>li {
+    float: left;
+}
+.pull-right {
+    float: right !important;
+}
+
+
+#iw-container,.gm-style-iw {
+     font-family: "Droid Arabic Kufi" !important;
+}
+
+.OS_head_se {
+    font-family: "Droid Arabic Kufi" !important;
+    background-color: #f16a3d;
+    display: block;
+    height: 43px;
+    width: 100%;
+    border-radius: 4px 4px 0 0;
+    line-height: 43px;
+    margin-bottom: 15px;
+    text-align: right;
+}
+.OS_head_se label .fa.fa-home {
+    margin-right: 20px;
+    margin-left: 3px;
+}
+.OS_but_all li {
+    display: inline-block;
+    float: right;
+    margin-top: 0;
+    margin-right: 0;
+    margin-bottom: 0;
+    margin-left: 0;
+    padding-top: 0px;
+    padding-right: 5px;
+    padding-bottom: 0px;
+    padding-left: 0px;
+}
+.OS_icon_f {
+    background-color: #007192;
+    border-radius: 0 4px 4px 0;
+    display: inline-block;
+    font-size: 21px;
+    height: 44px;
+    margin-left: 15px;
+	margin-right: 0px;
+    text-align: center;
+    width: 50px;
+}
+.container {
+	font-family: "Droid Arabic Kufi" !important;
+}
+h1, h2, h3, h4, h5, h6 {
+    font-family: "Droid Arabic Kufi" !important;
+}
+.property-contract-type {
+    right: 0px;
+}
+.property-thumb-meta {
+	right: 75px;
+	left: auto;
+}
+.OS_map-icon {
+    color: #999999;
+    margin-left: 5px;
+	margin-right: 0px;
+}
+.caption .rtl-left {
+    float: right !important;
+}
+.OS_pad-l {
+    padding-left: 5px;
+    float: right !important;
+}
+.OS_dit_dow-icon {
+    float: right;
+}
+
+.property-meta-list .list-group-item .titles{
+   border-right:0px;
+   border-left: 1px solid #ccc;
+   float: right;
+}
+
+.property-utilities .bathrooms .content {
+    background-image: url("../images/icons/bathrooms.png");
+    background-position: right center;
+    background-repeat: no-repeat;
+    background-size: 14px 20px;
+    color: #313131;
+    padding-right: 19px;
+    font-size: 12px;
+}
+.OS_dit_dow-icon {
+    float: right;
+    width: 35.2%;
+}
+
+#iw-container .OS_dit_dow-icon{
+    width: 44.2% !important;
+}
+
+.property-utilities .bedrooms .content {
+    background-image: url("../images/icons/bedrooms.png");
+    background-position: right center;
+    background-repeat: no-repeat;
+    background-size: 21px 12px;
+    color: #313131;
+    padding-right: 26px;
+    font-size: 12px;
+}
+.property-utilities .bathrooms .content, .property-utilities .bedrooms .content {
+    padding-left: 0px;
+}
+.OS_pad-l {
+    padding-left: 0px;
+	padding-right: 5px;
+    float: right !important;
+}
+.OS_agent .thumbnail .caption {
+    padding: 10px 156px 10px 11px !important;
+    height: 145px !important;
+    font-size: 12px !important;
+    word-wrap: break-word;
+}
+.OS_agent .property-header a {
+    background-color: rgba(0, 0, 0, 0);
+    display: block;
+    height: 100%;
+    right: 0;
+    position: absolute;
+    top: 0;
+    transition: background-color 0.2s ease-in 0s;
+    width: 100%;
+    z-index: 200;
+    margin-left: 13px;
+	margin-right: 0px;
+}
+#owl-demo_agent .col-md-4.col-sm-4.facility.OS_agent .thumbnail.thumb-shadow .property-header {
+    width: 145px !important;
+    float: right !important;
+}
+.phone {
+    background-image: url(../images/icons/phone.png);
+    background-repeat: no-repeat;
+    background-position: center right;
+    padding-right: 18px;
+	padding-left: 0px;
+}
+.email {
+    background-image: url(../images/icons/email.png);
+    background-repeat: no-repeat;
+    background-position: right 1px;
+    padding-right: 18px;
+	padding-left: 0px;
+	
+}
+.OS_se_t {
+    height: 33px;
+    width: 275px;
+    padding-right: 30px;
+    background-image: url(../images/os_se.png);
+    background-position: 249px center;
+    background-repeat: no-repeat;
+    border: solid 1px #007192;
+    line-height: 33px;
+}
+.widget-listing .property-header {
+    width: 40%;
+    float: right;
+}
+.widget-listing .caption .property-title {
+    font-size: 16px;
+    color: #313131;
+    clear: both;
+    padding-left: 3px;
+    float: right !important;
+}
+input[type=radio].css-checkbox + label.css-label1 {
+    padding-right: 21px;
+	padding-left: 0px;
+    height: 16px;
+    display: inline-block;
+    line-height: 16px !important;
+    background-repeat: no-repeat;
+    background-position: right 0px;
+    vertical-align: middle;
+    cursor: pointer;
+}
+input[type=radio].css-checkbox:checked + label.css-label1 {
+    background-position: right -16px;
+}
+input[type=checkbox].css-checkbox.med + label.css-label.med {
+    padding-right: 22px;
+    padding-left: 0px;
+    height: 17px;
+    display: inline-block;
+    line-height: 17px !important;
+    background-repeat: no-repeat;
+    background-position: right 0;
+    vertical-align: middle;
+    cursor: pointer;
+}
+input[type=checkbox].css-checkbox.med:checked + label.css-label.med {
+    background-position: right -17px;
+}
+input[type=checkbox].css-checkbox + label.css-label {
+    padding-right: 20px;
+    padding-left: 0px;
+    height: 15px;
+    display: inline-block;
+    line-height: 15px !important;
+    background-repeat: no-repeat;
+    background-position: right 0;
+    vertical-align: middle;
+    cursor: pointer;
+}
+input[type=checkbox].css-checkbox:checked + label.css-label {
+    background-position: right -15px;
+}
+.OS_r-map-header a{
+    float:right;
+}
+.OS_filter .OS_filter_in {
+    width: 1170px;
+    margin-right: auto;
+    margin-left: auto;
+    padding-right: 15px;
+    padding-left: 15px;
+}
+.fi_ul1 {
+    float: right;
+    list-style-type: none;
+    margin: 0px;
+    padding: 0px;
+    color: #FFF;
+    line-height: 15px;
+}
+.fi_li_pad {
+    padding-left: 10px;
+    border-right: 0px !important;
+	padding-right: 0px !important;
+}
+.fi_li1 {
+    display: inline-block;
+    float: right;
+    line-height: 34px;
+    border-left-width: 1px;
+    border-left-style: solid;
+    border-left-color: #03576f;
+    border-right-width: 1px;
+    border-right-style: solid;
+    border-right-color: #038db5;
+}
+.fi_li1 a {
+    color: #FFF;
+    text-decoration: none;
+    background-image: url(../images/ar_dw.png);
+    background-repeat: no-repeat;
+    background-position: 2px center;
+    padding-left: 22px;
+    padding-right: 15px;
+}
+.box4 {
+    float: right;
+    padding-right: 15px;
+    margin-top: 2px;
+	border-right: solid 0px #fff;
+    margin-right: 0px;
+}
+.box4 .ap-but {
+    float: right;
+}
+.fi_li3 {
+    display: block;
+    color: #007193;
+}
+.fi_li3 a {
+    color: #007193;
+    background-image: none;
+    display: block;
+    line-height: 32px;
+}
+.fi_text_c {
+    height: 27px;
+    width: 57px;
+    text-align: center;
+    line-height: 25px;
+}
+.col-md-4 {
+    float: right;
+	
+	}
+
+.ar_div {
+    float: right !important;
+	margin-left: 5px;
+	}
+	
+.ar_left {
+	text-align: left !important;
+	}	
+	.col-sm-3 {
+    float: right;
+	
+	}
+	
+	
+	.button.close {
+    padding: 0;
+    cursor: pointer;
+    background: 0 0;
+    border: 0;
+    -webkit-appearance: none;
+    float: left;
+}
+	
+	.agent-holder .agent-image-holder {
+    width: 150px;
+    float: right;
+    margin: 0px 0px 0px 20px;
+}
+.agent-holder .detail {
+    float: right;
+    margin: 15px 0px 15px 0px;
+    width: 50%;
+}
+.OS_ag_detail {
+    float: left;
+    width: 29%;
+    height: 150px;
+    padding: 30px 11px;
+    background-color: #F0F0F0;
+    word-break: break-word;
+}
+.follow-agent .social-networks {
+    float: right;
+    list-style: none outside none;
+    margin: 0;
+    padding: 0;
+}
+.re_ime {
+    width: 150px !important;
+    float: right !important;
+    margin: 20px !important;
+}
+
+.up_to_pa {
+float: right !important;
+}
+
+.new_or {
+    background-image: url(../images/or_ar.png);
+}
+.close{
+    float: left;
+}
+#carousel .slides li{
+    float: right !important;
+}
+#carousel li{
+    margin-right:0px;
+    margin-left: 5px;
+}

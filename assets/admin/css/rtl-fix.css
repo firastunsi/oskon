@@ -1,0 +1,63 @@
+.control-label{
+	float: right !important;
+}
+.controls{
+	float: right !important;
+}
+.container {
+	font-family: "Droid Arabic Kufi" !important;
+}
+h1, h2, h3, h4, h5, h6 {
+    font-family: "Droid Arabic Kufi" !important;
+}
+body {
+    font-family: "Droid Arabic Kufi" !important;
+}
+
+.nav-list>li .submenu>li>a, .nav-list>li .submenu>li>span, .nav-list>li .submenu>li>ul>li>a {
+    display: block;
+    position: relative;
+padding: 7px 25px 8px 0px;
+    margin: 0;
+    -webkit-transition: background-color 200ms linear;
+    -moz-transition: background-color 200ms linear;
+    transition: background-color 200ms linear;
+}
+.nav-list>li .submenu>li:before, .nav-list>li .submenu>li>ul>li:before {
+    content: "";
+    display: block;
+    position: absolute;
+    width: 4px;
+    left: 235px;
+    top: 17px;
+    border-top: 1px solid rgba(255, 255, 255, 0.35);
+}
+.box .box-title .box-tool {
+    display: inline-block;
+    float: left;
+    line-height: 20px;
+    white-space: nowrap;
+}
+.box .box-title h3>i {
+    margin-left: 10px;
+}
+.fa-angle-right:before {
+    content: "\f104";
+}
+input[type="text"], input[type="password"], input[type="datetime"], input[type="datetime-local"], input[type="date"], input[type="month"], input[type="time"], input[type="week"], input[type="number"], input[type="email"], input[type="url"], input[type="search"], input[type="tel"], input[type="color"], .uneditable-input, .uneditable-textarea, .form-group.warning input, .form-group.warning select, .form-group.warning textarea, .form-group.error input, .form-group.error select, .form-group.error textarea, .form-group.success input, .form-group.success select, .form-group.success textarea, .form-group.info input, .form-group.info select, .form-group.info textarea, .input-group input, .input-group input, .input-group select, .input-group select, .input-group .uneditable-input, .input-group .uneditable-input, .input-group .input-group-addon:first-child, .input-group .btn:first-child, .input-group input, .input-group select, .input-group .uneditable-input, .input-group input+.btn-group .btn:last-child, .input-group select+.btn-group .btn:last-child, .input-group .uneditable-input+.btn-group .btn:last-child, .input-group .input-group-addon:last-child, .input-group .btn:last-child, .input-group .btn-group:last-child>.dropdown-toggle, .input-group.input-group input+.btn-group .btn, .input-group.input-group select+.btn-group .btn, .input-group.input-group .uneditable-input+.btn-group .btn, .input-group.input-group .input-group-addon:first-child, .input-group.input-group .btn:first-child, .input-group.input-group .input-group-addon:last-child, .input-group.input-group .btn:last-child, input.search-query, .form-search .input-group .search-query, .form-search .input-group .btn, .form-search .input-group .search-query, .form-search .input-group .btn, .form-control {
+    -webkit-box-shadow: none;
+    box-shadow: none;
+    -webkit-border-radius: 0px 5px 5px 0px;
+    -moz-border-radius: 0px 5px 5px 0px;
+    border-radius: 0px 5px 5px 0px;
+}
+.input-group .form-control:last-child, .input-group-addon:last-child, .input-group-btn:last-child>.btn, .input-group-btn:last-child>.dropdown-toggle, .input-group-btn:first-child>.btn:not(:first-child) {
+    border-bottom-right-radius: 0;
+    border-top-right-radius: 0;
+}
+.multiple-uploads{
+    float: right;
+}
+.input-group-addon{
+   border:0px !important; 
+}

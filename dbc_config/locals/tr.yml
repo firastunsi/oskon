@@ -1,0 +1,315 @@
+---
+DBC_PURPOSE_SALE: satış
+DBC_PURPOSE_RENT: kira
+DBC_PURPOSE_BOTH: Satış & Kiralık
+DBC_TYPE_APARTMENT: daire
+DBC_TYPE_HOUSE: ev
+DBC_TYPE_LAND: arazi
+DBC_TYPE_COMSPACE: ticari Uzay
+DBC_CONDITION_NEW: yeni
+DBC_CONDITION_SOLD: satılan
+DBC_CONDITION_AVAILABLE: mevcut
+DBC_CONDITION_AUCTION: açık artırma
+sign_in: Oturum Aç
+sign_up: Kaydol
+agent_panel: ajan Paneli
+admin_panel: Yönetici Paneli
+find_your_place: Your Place bul
+search_text_banner: Adres , Mahalle , şehir veya Devletin ara
+DBC_ADVANCED_SEARCH: Gelişmiş Arama
+recent_estates: Son Estates
+DBC_AGENTS: Ajanlar
+no_estates_found: Hiçbir Estates Bulunamadı
+DBC_HOME: ev
+DBC_ABOUT: hakkında
+DBC_CONTACT: temas
+plain_search: düz Arama
+ignore_this_section: Bu bölümü görmezden
+location_search: Yer arama
+country: ülke
+state_province: Devlet / İl
+city: şehir
+bedrooms: Yatak odası
+bathrooms: banyolar
+year_built: Yapım Yılı
+register: Kayıt
+area: alan
+details: ayrıntılar
+view_all: Tüm
+featured_estates: Öne Estates
+order_by: Sırala
+none: hiçbiri
+terms_and_conditions: Şartlar ve Confition
+reg_success_message: Hesabınız kaydı başarılıdır. 
+limit: limit
+usage: kullanım
+recover: kurtarmak
+oops: Üzgünüz , sayfa bulunamadı
+share_this: Bu paylaş
+baths: hamam
+general_amenities: Genel Özellikler
+location_map: Konum Haritası
+image_gallery: Resim Galerisi
+summary: özet
+overview: genel bakış
+address: adres
+agent: ajan
+message: mesaj
+DBC_PER_MONTH: Aylık
+DBC_PER_QUARTER: Çeyrek başına
+DBC_PER_YEAR: başına Yıl
+DBC_TYPE_CONDO: konut
+DBC_TYPE_VILLA: villa
+type_filers: Tip Filtreler
+purpose_filters: Amaç Filtreler
+email_subject: E-posta Konusu
+all: tüm
+DBC_DELETED: silinen
+agent_estates: ajan Estates
+all_agents: Tüm Ajanlar
+contact_us: Bize Ulaşın
+DBC_ACTIVE: aktif
+radius: yarıçap
+featured_video: Seçme Video
+estates: Estates
+embed_video_url: Gömülü video URL
+DBC_PENDING: kadar
+top_estates: En Estates
+estate: arazi
+email_tracker: E-posta Tracker
+bulk_email: Toplu E-posta
+advanced_filters: Gelişmiş Filtreler
+purpose: amaç
+result: sonuç
+agent_not_found: Ajan Bulunamadı
+payment_notification: Bir ödeme yapmak için gidiyoruz . 
+confirmation: onay
+distance: mesafe
+tags: Etiketler
+zip_code: Posta Kodu
+embed_preview: Göm Önizleme
+login: Oturum Aç
+post_not_found: Yayınla Bulunamadı
+view_more: Daha görüntüle
+choose_a_package: Bir Paket seçiniz
+no_package_found: Bulunamadı Paketi
+days: günler
+posts: Mesajlar
+change: değişim
+subscribe: Abone
+home_size: Ana Sayfa Boyutu
+lot_size: Lot Büyüklüğü
+DBC_PAGES: Sayfalar
+DBC_BLOG: Blog
+DBC_NEWS: haber
+DBC_ARTICLES: Makaleler
+DBC_REPORTED: bildirilen
+all_estates: Tüm Estates
+image: görüntü
+condition: durum
+sales_price: satış Fiyatı
+price_per_unit: Birim Fiyat
+rent_price: Kira Fiyatı
+energy_efficiency: enerji Verimliliği
+custom_fields: Özel Alanlar
+view_on_map: Haritada Görüntüle
+estate_add_status_video: İlk gayrimenkul oluşturun . 
+estate_add_status_gallery: İlk özellik oluşturmak . 
+create: oluşturmak
+basic_info: Temel Bilgiler
+estate_brochure: Emlak Broşür
+send: göndermek
+all_email_to_agent: Ajanlar tüm e-postalar
+email_detail: E-posta Detayı
+change_package: Değişim Paketi
+bank_transfer: Banka Transferi
+contact_subject: İletişim E-
+payment_finish_title: Ödeme Tamamlandı
+payment_renew_title: Ödeme Tamamlandı
+payment_finish_text: Ödemeniz tamamlandı . 
+payment_renew_text: Ödemeniz tamamlandı . 
+payment_cancel_title: Ödeme İptal
+payment_cancel_text: Ödemeniz iptal edilir
+feature_payment_finish: Ödemeniz tamamlandı . 
+feature_payment_cancel: Ödemeniz iptal edilir .
+DBC_CONDITION_RENTED: kiralanmış
+private_owner: Özel Sahibi
+dealer: satıcı
+selected_package: seçilen Paketi
+signup_with_social_account: Sosyal hesapla Kayıt
+password: şifre
+confirm_password: Şifreyi Onayla
+property_price: Toplam Fiyat
+down_payment: peşinat
+term_in_years: Yıllar yok
+annual_interest: Yıl Başı Faiz ( % )
+installments_per_year: Taksit Başına Yıl
+monthly_payment: Aylık Ödeme
+mortgage_calculation: Mortgage Hesaplama
+all_posts: Tüm mesajlar
+no_posts: yok Mesajlar
+title: başlık
+description: tanım
+status: durum
+actions: Eylemler
+action: eylem
+type: tip
+type_something: bir şey yazın
+content: içerik
+featured_image: Sunulan Görüntü
+all_categories: Tüm kategoriler
+edit_category: Düzenleme kategorisi
+new_category: yeni kategori
+parent: ebeveyn
+edit: Düzenle
+delete: silmek
+name: isim
+save: kaydet
+no_parent: hiçbir ebeveyn
+edit_email_template: E-posta düzenle şablonu
+select_template_file: Seçin şablon dosyası
+subject: konu
+body: vücut
+available_variables: Mevcut değişkenler
+select_language: Dil Seç
+select_language_file: Seç dil dosyası
+edit_as_new: Yeni olarak düzenlemek
+language: dil
+add_another: Başka ekle
+export_to_file: İhracat dosya
+import_from_file: Dosyadan İthalat
+auto_translator: Otomatik çevirmen
+from_lang: lang Gönderen
+target_lang_full_name: Hedef lang tam adı
+target_lang_short_name: Hedef lang kısa adı
+create_new_package: Yeni Paket Oluştur
+price: fiyat
+maximum_post_by_user: Kullanıcı tarafından Maksimum mesajlar
+expirtion_time: Expirtion süresi ( gün)
+create_package: Paket oluşturma
+edit_package: Düzenle paketi
+update_package: Güncelleme paketi
+add_packages: paketleri ekleyin
+all_packages: Tüm paketler
+no_packages: hiçbir paketler
+options: Seçenekler
+all_pages: Tüm sayfalar
+no_pages: hiçbir sayfalar
+manage_menu: Menu yönetin
+menu_title: Menü Başlığı
+menu_alias: Menü takma
+show_in_menu: Menüde Göster
+page_layout: Sayfa düzeni
+content_from: içerik
+url: URL
+seo_options: SEO seçenekleri
+meta_description: meta açıklama
+key_words: anahtar kelimeler
+crawl_after: Tarama ( gün ) sonra
+all_plugins: Tüm eklentileri
+no_plugins: hiçbir eklentileri
+name_and_version: Adı ve sürümü
+change_password: şifre değiştir
+current_password: Mevcut Şifre
+new_password: yeni Şifre
+retype_password: şifrenizi yeniden yazın
+password_reset_info_msg: Önce Yeni Şifre Set Lütfen
+edit_profile: profili düzenle
+profile_picture: Profil Resmi
+username: Kullanıcı adı
+email: E-posta
+first_name: İsim
+last_name: Soyadı
+gender: cinsiyet
+phone: telefon
+company_name: Firma Adı
+about_me: Benim Hakkımda
+facebook_account: Facebook hesabı
+twitter_account: Twitter hesabı
+linkedin_account: linkedin hesabı
+gp_account: Google+ hesabı
+account_msg: 'Http olmadan , linki girin : //'
+web_email_settings: Web E-posta Ayarları
+contact_email: İletişim E-
+webadmin_name: webadmin Adı
+webadmin_email: webadmin E-
+update: güncelleştirme
+upload: Yükle
+site_settings: Site Ayarları
+site_title: sitesi Başlığı
+footer_text: Altbilgi Metin
+site_logo: sitesi Logo
+site_language: Site Dilini
+site_text_direction: Sitesi Metin Yönü
+per_page: Pagination Sayfa Başına
+default_page_layout: Sayfa Düzeni Standart
+tracking_code: izleme Kodu
+smtp_email_settings: SMTP E-posta Ayarları
+smtp_email: SMTP E-posta
+smtp_host: SMTP Sunucu
+smtp_port: SMTP Bağlantı Noktası
+smtp_timeout: SMTP Zaman Aşımı
+smtp_user: SMTP Kullanıcı
+smtp_password: SMTP Şifresi
+generate_site_map: Site Haritası Oluştur
+sitemap_info_msg: Eğer site haritası xml dahil olmak üzere istediğiniz seçiniz . 
+pages: Sayfalar
+blog_posts: Blog Yazıları
+view_xml: Görünüm XML
+create_xml: XML oluşturma
+manage_backups: Yedekleri'ni yönetin
+create_sql_backup: SQL Yedekleme oluşturun
+create_image_backup: Görüntü Yedekleme oluşturun
+restore: Restore
+download: indir
+dashboard: gösterge paneli
+overview_stats_more: Genel , İstatistikler ve daha fazlası
+visit_site: Ziyaret Sitesi
+logout: Çıkış
+themes: Temalar
+real_estate: gayrimenkul
+locations: Mekanlar
+amenities: kolaylıklar
+distance_fields: Mesafe Alanları
+paypal_settings: Paypal Ayarları
+payment_history: Ödeme Geçmişi
+profile: profil
+packages: Paketler
+agents: Ajanlar
+widgets: widget'lar
+all_widgets: Tüm Widget'lar
+widget_positions: Widget Pozisyonlar
+blog_news_article: Blog / Haber / Makale
+new_post: yeni Mesaj
+pages_and_menu: Sayfalar ve Menü
+new_page: yeni Sayfa
+menu: menü
+system: sistem
+manage_languages: Diller Yönet
+auto_translate: Otomatik Çevir
+edit_email_text: Düzenleme E-posta Metni
+admin_settings: Yönetici Ayarları
+sitemap: Site Haritası
+activate: etkinleştirmek
+active_theme: aktif Tema
+available_themes: Mevcut Temalar
+all_users: Tüm Kullanıcılar
+create_user: Kullanıcı Oluştur
+export_user_email: İhracat Kullanıcı e-postalar ( .csv )
+profile_info: Profil Bilgileri
+ban_forever: Sonsuza Ban
+edit_page: Sayfayı Düzenle
+create_widget: Widget oluştur
+widget_name: Widget Adı
+activate_deactivate: 'Etkinleştirin / De - Etkinleştir'
+show: gösteri
+available_widgets: Mevcut Widget'lar
+active_widgets: aktif Widget'lar
+delete_warning: Emin silerim istiyorum misiniz .
+confirm_yes: Evet Sil
+confirm_no: iptal
+date: tarih
+from: itibaren
+reactivate: yeniden etkinleştirme
+agent_profile: ajan profili
+samplepage: örnek sayfa
